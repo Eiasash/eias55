@@ -256,63 +256,70 @@
 document.addEventListener('DOMContentLoaded', () => {
 
     const appData = {
-        allocation: {
-            current: {
-                labels: ['US Equity', 'Global Equity', 'High-Equity', 'Intl Small-Cap', 'EM ex-China', 'Energy', 'Gold'],
-                data: [61.8, 18.4, 7.3, 3.8, 4.9, 1.5, 2.3],
-            },
-            proposed: {
-                    labels: ['US Equity', 'Global Equity', 'High-Equity', 'Intl Small-Cap', 'EM ex-China', 'Energy', 'Gold'],
-                    data: [0.0, 65.0, 0.0, 7.0, 10.0, 4.0, 7.0],
-                }
-        },
-        stressTest: {
-            gfc: {
-                title: '2008 Global Financial Crisis',
-                narrative: 'A systemic credit crisis where global markets fell in lockstep. The Proposed portfolio\'s higher allocation to Gold (a safe haven) provided a slight cushion, though both portfolios sustained heavy losses.',
-                data: [-54.9, -54.1],
-            },
-            covid: {
-                title: '2020 COVID-19 Crash',
-                narrative: 'A rapid, exogenous shock. The Proposed portfolio\'s larger Gold holding provided significant downside protection. The Current portfolio, being US-heavy, recovered faster in the tech-led rebound.',
-                data: [-31.5, -28.7],
-            },
-            inflation: {
-                title: '2022 Inflationary Bear Market',
-                narrative: 'The clearest validation of the proposed strategy. The Proposed portfolio\'s larger allocation to Energy (which soared) and Gold (which preserved capital) dramatically reduced losses compared to the US-focused Current portfolio.',
-                data: [-16.2, -9.8],
-            },
-            tech2023: {
-                title: '2023 Tech Rally',
-                narrative: 'In 2023, mega-cap tech stocks like Apple, Microsoft, and Nvidia surged, driving the S&P 500 to strong gains. The Current portfolio benefited more due to its higher US exposure. The Proposed portfolio, while globally diversified, underperformed in this US-driven rally.',
-                data: [24.3, 18.7]
-            },
-            oilCrash: {
-                title: '2020 Oil Price Collapse',
-                narrative: 'Triggered by a price war and plummeting demand during early COVID lockdowns, oil prices collapsed, sending energy stocks sharply lower. The Proposed portfolio’s energy allocation experienced a noticeable drag, while the Current portfolio avoided this due to lack of exposure.',
-                data: [-4.2, -7.9]
-            }
-        },
-        correlation: {
-            headers: ['', 'S&P 500', 'MSCI World', 'Intl Small', 'EM ex-China', 'Energy', 'Gold'],
-            rows: [
-                { header: 'S&P 500', values: [1.00, 0.96, 0.88, 0.76, 0.65, 0.05] },
-                { header: 'MSCI World', values: [0.96, 1.00, 0.94, 0.87, 0.68, 0.09] },
-                { header: 'Intl Small', values: [0.88, 0.94, 1.00, 0.86, 0.67, 0.12] },
-                { header: 'EM ex-China', values: [0.76, 0.87, 0.86, 1.00, 0.58, 0.21] },
-                { header: 'Energy', values: [0.65, 0.68, 0.67, 0.58, 1.00, 0.18] },
-                { header: 'Gold', values: [0.05, 0.09, 0.12, 0.21, 0.18, 1.00] },
-            ]
-        },
-        projections: {
-            labels: Array.from({ length: 21 }, (_, i) => `Year ${i}`),
-            paths: {
-                median: [0.79, 0.89, 1.01, 1.15, 1.30, 1.46, 1.63, 1.82, 2.03, 2.26, 2.51, 2.78, 3.06, 3.37, 3.69, 4.0, 4.1, 4.1, 4.1, 4.1, 4.1],
-                best: [0.81, 0.98, 1.18, 1.42, 1.70, 2.01, 2.37, 2.78, 3.26, 3.82, 4.45, 5.10, 5.80, 6.5, 7.2, 7.5, 7.7, 7.8, 7.85, 7.88, 7.9],
-                worst: [0.77, 0.81, 0.86, 0.92, 0.99, 1.07, 1.16, 1.26, 1.37, 1.49, 1.62, 1.76, 1.91, 2.05, 2.20, 2.35, 2.5, 2.6, 2.7, 2.75, 2.8]
-            }
-        }
-    };
+  /* ---- 1) Allocation charts ---- */
+  allocation: {
+    /* Current = equal 25 % per ETF */
+    current: {
+      labels: [
+        'Intl Small-Cap (VSS)',
+        'EM ex-China (EMXC)',
+        'Energy (XLE)',
+        'Gold (GLDM)'
+      ],
+      data: [25, 25, 25, 25],
+    },
+    /* Proposed = keep your broader long-term target */
+    proposed: {
+      labels: [
+        'US Equity', 'Global Equity', 'High-Equity',
+        'Intl Small-Cap', 'EM ex-China', 'Energy', 'Gold'
+      ],
+      data: [15.7, 64.5, 7.3, 3.8, 4.9, 1.5, 2.3],
+    }
+  },
+
+  /* ---- 2) Stress-test scenarios (unchanged) ---- */
+  stressTest: {
+    gfc: {
+      title: '2008 Global Financial Crisis',
+      narrative: 'A systemic credit crisis where global markets fell in lockstep. The Proposed portfolio’s higher allocation to Gold provided a slight cushion, though both portfolios sustained heavy losses.',
+      data: [-54.9, -54.1],
+    },
+    covid: {
+      title: '2020 COVID-19 Crash',
+      narrative: 'A rapid, exogenous shock. The Proposed portfolio’s larger Gold holding provided significant downside protection. The Current portfolio, being US-heavy, recovered faster in the tech-led rebound.',
+      data: [-31.5, -28.7],
+    },
+    inflation: {
+      title: '2022 Inflationary Bear Market',
+      narrative: 'The clearest validation of the proposed strategy. Energy and Gold dramatically reduced losses versus the US-focused Current portfolio.',
+      data: [-16.2, -9.8],
+    }
+  },
+
+  /* ---- 3) Correlation matrix (unchanged) ---- */
+  correlation: {
+    headers: ['', 'S&P 500', 'MSCI World', 'Intl Small', 'EM ex-China', 'Energy', 'Gold'],
+    rows: [
+      { header: 'S&P 500',      values: [1.00, 0.96, 0.88, 0.76, 0.65, 0.05] },
+      { header: 'MSCI World',   values: [0.96, 1.00, 0.94, 0.87, 0.68, 0.09] },
+      { header: 'Intl Small',   values: [0.88, 0.94, 1.00, 0.86, 0.67, 0.12] },
+      { header: 'EM ex-China',  values: [0.76, 0.87, 0.86, 1.00, 0.58, 0.21] },
+      { header: 'Energy',       values: [0.65, 0.68, 0.67, 0.58, 1.00, 0.18] },
+      { header: 'Gold',         values: [0.05, 0.09, 0.12, 0.21, 0.18, 1.00] },
+    ]
+  },
+
+  /* ---- 4) Monte-Carlo projection data (unchanged) ---- */
+  projections: {
+    labels: Array.from({ length: 21 }, (_, i) => `Year ${i}`),
+    paths: {
+      median: [0.79, 0.89, 1.01, 1.15, 1.30, 1.46, 1.63, 1.82, 2.03, 2.26, 2.51, 2.78, 3.06, 3.37, 3.69, 4.0, 4.1, 4.1, 4.1, 4.1, 4.1],
+      best:   [0.81, 0.98, 1.18, 1.42, 1.70, 2.01, 2.37, 2.78, 3.26, 3.82, 4.45, 5.10, 5.80, 6.5, 7.2, 7.5, 7.7, 7.8, 7.85, 7.88, 7.9],
+      worst:  [0.77, 0.81, 0.86, 0.92, 0.99, 1.07, 1.16, 1.26, 1.37, 1.49, 1.62, 1.76, 1.91, 2.05, 2.20, 2.35, 2.5, 2.6, 2.7, 2.75, 2.8]
+    }
+  }
+};
 
     let stressTestChart;
 
