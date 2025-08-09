@@ -1,0 +1,103 @@
+DEPRESSION VS DEMENTIA - SEARCH RESULTS
+============================================================
+
+File: all_medical_tables.html
+Search term: depression.*dementia
+Context: ...n disability by age, sex, and race/ethnicity. We next turn to risk factors for disability and poor functional health. Many chronic conditions are risk factors for disability, including cardiovascular disease, heart failure, osteoarthritis, chronic obstructive pulmonary disease, diabetes, cancer, depression, dementia, and sensory impairments. Moreover, the presence and burden of disability and functional limitations increases notably with the number of chronic conditions ( Figure 2-15 ). This figure demonstrates the prevalence of up to 19 functional limitations ( Figu...
+------------------------------------------------------------
+File: all_medical_tables.html
+Search term: dementia.*depression
+Context: ...t;text-align: left;">Assessment and care planning for optimal mentation, which includes mood and memory, helps prevent, identify, treat, and manage dementia, delirium, and depression across all settings of care. Dementia, delirium, and depression are covered in detail in other chapters in this text (see Chapters 58 , 59 , and 65 , respectively). When health care providers reliably assess and create appropriate care plans for the...
+------------------------------------------------------------
+File: all_medical_tables.html
+Search term: depressive.*cognitive
+Context: ...="padding-top: 3pt;padding-left: 8pt;text-indent: 0pt;text-align: left;">persistent pain, which may be accompanied by ADL limitations and reduced quality of life. Depression and cognitive limitations should also be discussed with patients and families. It is important for them to understand that depressive symptoms and cognitive limitations are common after a hip fracture. They should also be informed that these changes are not always persistent, as depressive symptoms and cognitive limitations will frequently resolve with limited intervention within 2 months, and that treatment for mild depre...
+------------------------------------------------------------
+File: all_medical_tables.html
+Search term: cognitive.*depression
+Context: ...-related macular degeneration, diabetic retinopathy, and glaucoma) increase in prevalence with age. Moreover, developing presbyopia is virtually universal and the vast majority of older persons require eyeglasses. Visual impairment has been associated with increased risk of falls, functional and cognitive decline, immobility, and depression. The high rates of vision disorders and their associated sequelae, the brevity of the screening process, and the treatments available for visual impairment justify screening for visual impairment. However, the revised 2016 US Pr...
+------------------------------------------------------------
+File: all_medical_tables.html
+Search term: differential.*diagnosis.*depression.*dementia
+Context: ...tive function, cognitive slowing, poor attention and concentration, and mild memory impairment, can mimic early signs of dementia and may potentially lead to misdiagnosis and/or lack of appropriate medical intervention. As depression is a potentially reversible cause of cognitive impairment, the differential diagnosis between depression and dementia is vital when evaluating older patients. Factors that are useful in discriminating between depression and dementia include the clinical course of symptoms, relationship to a specific crisis or stressful event, history of previous psychiatric proble...
+------------------------------------------------------------
+File: all_medical_tables.html
+Search term: late.*life.*depression
+Context: ...rs to health and quality of life. The Biology of Psychosocial Aging Biological changes are relevant to psychosocial aging. Late-life depression (LLD) may stem from inflammatory and hormonal abnormalities. LLD is often associated with greater chronicity, relapse, resistance to treatment, and suicide risk, as compared to depression in younger adults. It may also be comorbid with dementia and hence points to the need to evaluate cognitive...
+------------------------------------------------------------
+File: all_medical_tables.html
+Search term: geriatric.*depression
+Context: ...here as well, follow-up is important for the well- being of the older adult. Screening for depression is recommended annually or when symptoms arise. Evidence supports using one of the following four screening tools: Patient Health Questionnaire-2 (PHQ-2), Patient Health Questionnaire-9 (PHQ-9), Geriatric Depression Scale (GDS), and Geriatric Depression Scale - short form (GDS - short form). Mobility The positive effects of ph...
+------------------------------------------------------------
+File: medical_tables.html
+Search term: depression.*dementia
+Context: ...n disability by age, sex, and race/ethnicity. We next turn to risk factors for disability and poor functional health. Many chronic conditions are risk factors for disability, including cardiovascular disease, heart failure, osteoarthritis, chronic obstructive pulmonary disease, diabetes, cancer, depression, dementia, and sensory impairments. Moreover, the presence and burden of disability and functional limitations increases notably with the number of chronic conditions ( Figure 2-15 ). This figure demonstrates the prevalence of up to 19 functional limitations ( Figu...
+------------------------------------------------------------
+File: medical_tables.html
+Search term: dementia.*depression
+Context: ...t;text-align: left;">Assessment and care planning for optimal mentation, which includes mood and memory, helps prevent, identify, treat, and manage dementia, delirium, and depression across all settings of care. Dementia, delirium, and depression are covered in detail in other chapters in this text (see Chapters 58 , 59 , and 65 , respectively). When health care providers reliably assess and create appropriate care plans for the...
+------------------------------------------------------------
+File: medical_tables.html
+Search term: cognitive.*depression
+Context: ...-related macular degeneration, diabetic retinopathy, and glaucoma) increase in prevalence with age. Moreover, developing presbyopia is virtually universal and the vast majority of older persons require eyeglasses. Visual impairment has been associated with increased risk of falls, functional and cognitive decline, immobility, and depression. The high rates of vision disorders and their associated sequelae, the brevity of the screening process, and the treatments available for visual impairment justify screening for visual impairment. However, the revised 2016 US Pr...
+------------------------------------------------------------
+File: medical_tables.html
+Search term: late.*life.*depression
+Context: ...rs to health and quality of life. The Biology of Psychosocial Aging Biological changes are relevant to psychosocial aging. Late-life depression (LLD) may stem from inflammatory and hormonal abnormalities. LLD is often associated with greater chronicity, relapse, resistance to treatment, and suicide risk, as compared to depression in younger adults. It may also be comorbid with dementia and hence points to the need to evaluate cognitive...
+------------------------------------------------------------
+File: medical_tables.html
+Search term: geriatric.*depression
+Context: ...here as well, follow-up is important for the well- being of the older adult. Screening for depression is recommended annually or when symptoms arise. Evidence supports using one of the following four screening tools: Patient Health Questionnaire-2 (PHQ-2), Patient Health Questionnaire-9 (PHQ-9), Geriatric Depression Scale (GDS), and Geriatric Depression Scale - short form (GDS - short form). Mobility The positive effects of ph...
+------------------------------------------------------------
+File: medical_tables2.html
+Search term: depression.*dementia
+Context: ...ng, poor attention and concentration, and mild memory impairment, can mimic early signs of dementia and may potentially lead to misdiagnosis and/or lack of appropriate medical intervention. As depression is a potentially reversible cause of cognitive impairment, the differential diagnosis between depression and dementia is vital when evaluating older patients. Factors that are useful in discriminating between depression and dementia include the clinical course of symptoms, relationship to a specific crisis or stressful event, history of previous psychiatric problems, quality of effort, and lev...
+------------------------------------------------------------
+File: medical_tables2.html
+Search term: dementia.*depression
+Context: ...: left;"> Elder abuse and neglect are morbid and mortal. Mistreatment is associated with adverse health outcomes for victims, including significant increases in emergency department usage, hospitalization, dementia, depression, and nursing home placement. Also, research has shown that mistreatment victims have a threefold risk of death compared to nonabused controls. Thus, intervention is critical. Unfortunately, there are no randomized trials of reaso...
+------------------------------------------------------------
+File: medical_tables2.html
+Search term: depressive.*cognitive
+Context: ...="padding-top: 3pt;padding-left: 8pt;text-indent: 0pt;text-align: left;">persistent pain, which may be accompanied by ADL limitations and reduced quality of life. Depression and cognitive limitations should also be discussed with patients and families. It is important for them to understand that depressive symptoms and cognitive limitations are common after a hip fracture. They should also be informed that these changes are not always persistent, as depressive symptoms and cognitive limitations will frequently resolve with limited intervention within 2 months, and that treatment for mild depre...
+------------------------------------------------------------
+File: medical_tables2.html
+Search term: cognitive.*depression
+Context: ...on should include assessments of cognition, motivation, depression, social support, and financial resources, as these factors can have a significant impact on rehabilitation outcomes. A variety of validated assessment tools can be used to screen for cognition and depression, such as the Montreal Cognitive Assessment (MoCA) and the Geriatric Depression Scale, respectively. Assessment of current methods utilized by the patient for coping with disability, including use of ambulatory or assistive devices, level of assistance needed, and any limitation of activities, should also be...
+------------------------------------------------------------
+File: medical_tables2.html
+Search term: differential.*diagnosis.*depression.*dementia
+Context: ...tive function, cognitive slowing, poor attention and concentration, and mild memory impairment, can mimic early signs of dementia and may potentially lead to misdiagnosis and/or lack of appropriate medical intervention. As depression is a potentially reversible cause of cognitive impairment, the differential diagnosis between depression and dementia is vital when evaluating older patients. Factors that are useful in discriminating between depression and dementia include the clinical course of symptoms, relationship to a specific crisis or stressful event, history of previous psychiatric proble...
+------------------------------------------------------------
+File: medical_tables2.html
+Search term: late.*life.*depression
+Context: ...has long been recognized as a common psychiatric condition in older adults that may mimic dementia, depression is likely also a risk factor for AD. Findings of a meta- analysis involving over 20 population-based prospective studies supported an increased risk of AD in patients with a history of late-life depression (pooled risk OR [95% CI] 1.65 [1.42–1.92]). To date, the precise mechanisms underlying the association between depression and enhanced AD risk are unknown. Several potential mechanisms have been proposed that are common to both AD and depression, including elevated levels of cytokin...
+------------------------------------------------------------
+File: medical_tables2.html
+Search term: geriatric.*depression
+Context: ...nition, motivation, depression, social support, and financial resources, as these factors can have a significant impact on rehabilitation outcomes. A variety of validated assessment tools can be used to screen for cognition and depression, such as the Montreal Cognitive Assessment (MoCA) and the Geriatric Depression Scale, respectively. Assessment of current methods utilized by the patient for coping with disability, including use of ambulatory or assistive devices, level of assistance needed, and any limitation of activities, should also be...
+------------------------------------------------------------
+File: medical_tables3.html
+Search term: depression.*dementia
+Context: ...rral for urologic evaluation. In discussing the benefits and risks of testosterone, geriatricians should acknowledge that long-term effects of testosterone treatment on clinically important outcomes, such as disability, frailty, depression, dementia, fractures, major adverse cardiovascular events (myocardial infarction, stroke, and cardiovascular death) and prostate cancer are not known; results of observational correlation studies have been conflicting (different studies showing beneficial, no and adverse effects of testosterone treatment...
+------------------------------------------------------------
+File: medical_tables3.html
+Search term: dementia.*depression
+Context: ...ndependently of age, a TSH concentration of 10 mIU/L or higher predicts increased cardiovascular mortality, coronary heart disease, and heart failure. A TSH concentration of 7 mIU/L or higher predicts cardiovascular mortality. However, subclinical hypothyroidism is not associated with fractures, dementia, or depression. Although skeletal muscle function is impaired in hypothyroidism, one study found older individuals with subclinical hypothyroidism to have better physical function than their euthyroid counterparts, and another showed decreased m...
+------------------------------------------------------------
+File: medical_tables3.html
+Search term: cognitive.*depression
+Context: ...sment can be feasibly performed in the setting of AML therapy and it adds information to standard clinical assessment. For example, in a prospective study of adults age greater than or equal to 60 who received intensive therapy, pretreatment geriatric assessment detected significant impairments: cognitive impairment, 24%; depression, 26%; distress, 50%; ADL impairment, 34%; impaired physical performance, 31%; and comorbidity, 40%. Importantly, most patients on study were impaired in one (92.6%) or more (63%) measured characteristics. Impaired cognition (modified Mini Mental Status Examination ...
+------------------------------------------------------------
+File: medical_tables3.html
+Search term: geriatric.*depression
+Context: ...color: #0000ED;">41 Geriatric Anxiety Inventory (GAI), 1025 Geriatric “best practice” models, 191 –192, 192 t Geriatric Depression Scale (GDS), 905 , 1025 Geriatric Evaluation and Management Units (GEMUs), 130 Geriatric 5 Ms, surgery and, <span st...
+------------------------------------------------------------
+File: part1.html
+Search term: depression.*dementia
+Context: ...s in disability by age, sex, and race/ethnicity. We next turn to risk factors for disability and poor functional health. Many chronic conditions are risk factors for disability, including cardiovascular disease, heart failure, osteoarthritis, chronic obstructive pulmonary disease, diabetes, cancer, depression, dementia, and sensory impairments. Moreover, the presence and burden of disability and functional limitations increases notably with the number of chronic conditions ( Figure 2-15 ). This figure demonstrates the prevalence of up to 19 functional limitations ( Figure...
+------------------------------------------------------------
+File: part1.html
+Search term: dementia.*depression
+Context: ...5pt;text-indent:0;text-align:left">Assessment and care planning for optimal mentation, which includes mood and memory, helps prevent, identify, treat, and manage dementia, delirium, and depression across all settings of care. Dementia, delirium, and depression are covered in detail in other chapters in this text (see Chapters 58 , 59 , and 65 , respectively). When health care providers reliably assess and create appropriate care plans for these three com...
+------------------------------------------------------------

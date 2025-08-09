@@ -1,0 +1,83 @@
+PSYCHOPHARMACOLOGY IN DEMENTIA - SEARCH RESULTS
+============================================================
+
+File: all_medical_tables.html
+Search term: pharmacolog.*dementia
+Context: ...egies are increasing emphasized to manage behavioral symptoms in dementia, and are usually recommended as first-line treatments. The evidence base has grown recently to support a wide variety of nonpharmacologic treatments for the behavioral and psychological symptoms of dementia. Examples of effective nonpharmacologic treatment strategies include caregiver education and support, training in probl...
+------------------------------------------------------------
+File: all_medical_tables.html
+Search term: medication.*dementia
+Context: ...on with a full battery of cognitive tests, a neurologic examination, and brain imaging. However, many epidemiologic studies use other data sources such as medical record review including ICD codes, medication use, death certificates, and brief cognitive tests to define dementia. Each of these sources is subject to misclassification and thus the incidence and prevalence of dementia may be biased, a...
+------------------------------------------------------------
+File: all_medical_tables.html
+Search term: drug.*dementia
+Context: ...nstrated that cholinesterase inhibitor use was associated with an increased risk for receiving anticholinergic medications to manage urinary incontinence, suggesting that the use of anticholinergic drugs in patients with dementia may sometimes represent an unrecognized ADE related to cholinesterase inhibitor use. In addition, the use of anticholinergic drugs by older adults with dementia may expos...
+------------------------------------------------------------
+File: all_medical_tables.html
+Search term: antipsychotic.*dementia
+Context: ...ighest rates were three times more likely to be dispensed an antipsychotic therapy irrespective of their potential clinical indication. There is accumulating evidence that the benefit from atypical antipsychotics for the management of behavioral and psychological symptoms in Alzheimer-type dementia may be offset by the increased risk for ADEs. There is also evidence that antipsychotic use is assoc...
+------------------------------------------------------------
+File: all_medical_tables.html
+Search term: antidepressant.*dementia
+Context: ...mmunity dwelling older adults with dementia in the United States are prescribed antidepressants. Although systematic reviews of the literature have found limited evidence to support the efficacy of antidepressants in the treatment of depression, anxiety, and apathy in dementia, there is emerging evidence for their use in agitation. A summary of dosing and side effects of antidepressants is in Tabl...
+------------------------------------------------------------
+File: all_medical_tables.html
+Search term: cholinesterase
+Context: ...shable from an illness, such as Parkinson disease, which has a greater prevalence in older adults. Cholinesterase Inhibitors, Urinary Incontinence, and Anticholinergic Therapy Initiation Cholinesterase inhibitors (such as donepezil, rivastigmi...
+------------------------------------------------------------
+File: all_medical_tables.html
+Search term: memantine
+Context: ...e several pharmacological interventions that are approved by the US Food and Drug Administration for memory loss in AD, including donepezil, galantamine, rivastigmine (early-to-moderate stage), and memantine (moderate-to-severe-stage), that can be considered by the patients treating physician. In moderate-to-late...
+------------------------------------------------------------
+File: all_medical_tables.html
+Search term: donepezil
+Context: ...left;">Cholinesterase Inhibitors, Urinary Incontinence, and Anticholinergic Therapy Initiation Cholinesterase inhibitors (such as donepezil, rivastigmine, and galantamine) are often prescribed to manage the symptoms of Alzheimer disease and related dementias. Through their effects on the autonomic nervous system, cholinesterase inhibit...
+------------------------------------------------------------
+File: all_medical_tables.html
+Search term: rivastigmine
+Context: ...inesterase Inhibitors, Urinary Incontinence, and Anticholinergic Therapy Initiation Cholinesterase inhibitors (such as donepezil, rivastigmine, and galantamine) are often prescribed to manage the symptoms of Alzheimer disease and related dementias. Through their effects on the autonomic nervous system, cholinesterase inhibitors can someti...
+------------------------------------------------------------
+File: all_medical_tables.html
+Search term: galantamine
+Context: ...ors, Urinary Incontinence, and Anticholinergic Therapy Initiation Cholinesterase inhibitors (such as donepezil, rivastigmine, and galantamine) are often prescribed to manage the symptoms of Alzheimer disease and related dementias. Through their effects on the autonomic nervous system, cholinesterase inhibitors can sometimes precipitate u...
+------------------------------------------------------------
+File: medical_tables.html
+Search term: pharmacolog.*dementia
+Context: ...egies are increasing emphasized to manage behavioral symptoms in dementia, and are usually recommended as first-line treatments. The evidence base has grown recently to support a wide variety of nonpharmacologic treatments for the behavioral and psychological symptoms of dementia. Examples of effective nonpharmacologic treatment strategies include caregiver education and support, training in probl...
+------------------------------------------------------------
+File: medical_tables.html
+Search term: medication.*dementia
+Context: ...on with a full battery of cognitive tests, a neurologic examination, and brain imaging. However, many epidemiologic studies use other data sources such as medical record review including ICD codes, medication use, death certificates, and brief cognitive tests to define dementia. Each of these sources is subject to misclassification and thus the incidence and prevalence of dementia may be biased, a...
+------------------------------------------------------------
+File: medical_tables.html
+Search term: drug.*dementia
+Context: ...nstrated that cholinesterase inhibitor use was associated with an increased risk for receiving anticholinergic medications to manage urinary incontinence, suggesting that the use of anticholinergic drugs in patients with dementia may sometimes represent an unrecognized ADE related to cholinesterase inhibitor use. In addition, the use of anticholinergic drugs by older adults with dementia may expos...
+------------------------------------------------------------
+File: medical_tables.html
+Search term: antipsychotic.*dementia
+Context: ...ighest rates were three times more likely to be dispensed an antipsychotic therapy irrespective of their potential clinical indication. There is accumulating evidence that the benefit from atypical antipsychotics for the management of behavioral and psychological symptoms in Alzheimer-type dementia may be offset by the increased risk for ADEs. There is also evidence that antipsychotic use is assoc...
+------------------------------------------------------------
+File: medical_tables.html
+Search term: cholinesterase
+Context: ...shable from an illness, such as Parkinson disease, which has a greater prevalence in older adults. Cholinesterase Inhibitors, Urinary Incontinence, and Anticholinergic Therapy Initiation Cholinesterase inhibitors (such as donepezil, rivastigmi...
+------------------------------------------------------------
+File: medical_tables.html
+Search term: donepezil
+Context: ...left;">Cholinesterase Inhibitors, Urinary Incontinence, and Anticholinergic Therapy Initiation Cholinesterase inhibitors (such as donepezil, rivastigmine, and galantamine) are often prescribed to manage the symptoms of Alzheimer disease and related dementias. Through their effects on the autonomic nervous system, cholinesterase inhibit...
+------------------------------------------------------------
+File: medical_tables.html
+Search term: rivastigmine
+Context: ...inesterase Inhibitors, Urinary Incontinence, and Anticholinergic Therapy Initiation Cholinesterase inhibitors (such as donepezil, rivastigmine, and galantamine) are often prescribed to manage the symptoms of Alzheimer disease and related dementias. Through their effects on the autonomic nervous system, cholinesterase inhibitors can someti...
+------------------------------------------------------------
+File: medical_tables.html
+Search term: galantamine
+Context: ...ors, Urinary Incontinence, and Anticholinergic Therapy Initiation Cholinesterase inhibitors (such as donepezil, rivastigmine, and galantamine) are often prescribed to manage the symptoms of Alzheimer disease and related dementias. Through their effects on the autonomic nervous system, cholinesterase inhibitors can sometimes precipitate u...
+------------------------------------------------------------
+File: medical_tables2.html
+Search term: pharmacolog.*dementia
+Context: ...rior to using pharmacologic therapy, unless the person’s agitation threatens his or her safety or living situation. Chapter 60 includes detailed information on pharmacological and nonpharmacological management of behavioral symptoms of dementia. Safety Management Reviewing commo...
+------------------------------------------------------------
+File: medical_tables2.html
+Search term: medication.*dementia
+Context: ...p style="text-indent: 0pt;text-align: left;"> Certain medications can lead to adverse cognitive effects and even increased risk for dementia in older adults. Alzheimer disease dementia is the eventual clinical...
+------------------------------------------------------------
