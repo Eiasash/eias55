@@ -1,0 +1,1334 @@
+patient’s treating physician. In moderate-to-later stages of the disease course, 
+patients will become dependent for basic daily activities such as eating, 
+bathing, and grooming, and may also display challenging behaviors like 
+wandering or agitation. Maintaining a regular, predictable schedule that 
+includes some form of activity, ensuring good nighttime sleep, and assessing 
+for other causes of agitation (eg, infection; pain) can be helpful in these 
+situations. Occasionally, medications can be prescribed to combat agitation 
+or aggression, though certain types of medications (eg, antipsychotics, 
+sedatives) often have unwanted side effects in older adults or those with 
+dementia, so these decisions need to be made judiciously. Patients with latestage 
+disease often experience difficulties with swallowing, communication, 
+and/or bladder and bowel control and need round-the-clock-care. In 
+moderate to late stage disease, many families find they need to rely on hired 
+caregivers or consider an assisted living facility for assistance in managing 
+their loved ones’ needs. Caregiver support and education is essential at all 
+stages of the disease. 
+
+
+Lewy Body Disorders 
+
+
+Lewy body dementia (LBD) encompasses both DLB and PDD. The primary 
+neuropathologic feature in both diseases is the accumulation of cortical Lewy 
+bodies, resulting from abnormal aggregation of α-synuclein. However, 
+additional pathologic features, including accumulation of tau protein, 
+concurrent vascular and/or AD pathology, neurotransmitter abnormalities, 
+and frontostriatal projections that have been disrupted by loss of 
+dopaminergic neurons, can all contribute to the cognitive decline associated 
+with these diseases. 
+
+
+Although PD and DLB have historically been considered related but 
+separate clinical entities, many of the neuropathologic, clinical, cognitive, 
+and psychiatric characteristics of the two diseases have considerable 
+overlap. Both are associated with cognitive fluctuations, visual 
+hallucinations, psychiatric symptoms, and REM sleep behavior disorder in 
+the context of PD motor symptoms, and thus recent debates have examined 
+whether PD, PDD, and DLB should be placed along a clinical continuum 
+representing the same underlying pathology. Currently, the differential 
+diagnosis is based on the timing of the onset of the cognitive symptoms. A 
+patient with PD who develops dementia after 1 year of well-established 
+motor symptoms is classified as “PDD,” while a patient with motor 
+
+
+
+symptoms occurring after the onset of dementia (or within one year of motor 
+
+
+symptom onset) is classified as “DLB.” 
+Parkinsondisease Diagnosis of PD according to the United Kingdom Parkinson 
+Disease Society Brain Bank clinical diagnostic criteria requires specific 
+motor symptoms, including bradykinesia and at least one of the following: 
+muscular rigidity, rest tremor, and/or postural instability. Although motor 
+symptoms have long been considered the defining feature of PD, a wide 
+range of associated nonmotor symptoms, such as impaired sleep patterns, 
+psychiatric symptoms, gastrointestinal dysfunction, and cognitive impairment, 
+are increasingly recognized as having substantial impact on functional 
+abilities and quality of life for these patients. Of these nonmotor symptoms, 
+cognitive dysfunction is a substantial concern, with upwards of 80% of 
+patients who live for 20 years or more with PD expected to develop PDD 
+over the course of the disease. Current Movement Disorder Society task 
+force recommended consensus diagnostic criteria for PDD include (1) a 
+diagnosis of PD, (2) PD symptoms developed prior to the onset of dementia, 
+
+
+(3)impaired global cognition (eg, on MMSE or MoCA), (4) cognitive 
+impairment severe enough to impair activities of daily living, and (5) 
+impairments in more than one cognitive domain on detailed neurocognitive 
+testing. Additional supportive symptoms may include psychiatric symptoms 
+(eg, depression, apathy, delusions) or impaired sleep. Even among patients 
+without dementia, however, the rate of concurrent cognitive impairment can 
+be quite high. PD-mild cognitive impairment (PD-MCI), similar to MCI due 
+to AD, is characterized by subjective cognitive decline (noted by the patient, 
+collateral, or clinician), objective impairments on neuropsychological 
+assessment, and absence of functional impairment sufficient to significantly 
+interfere with functional independence in the presence of clinically verified 
+PD. PD-MCI is common, with overall prevalence estimates approximately 
+30% to 40%. Cognitive deficits often emerge early during the course of the 
+disease, with 10% to 30% of newly diagnosed patients with PD identified 
+with cognitive impairment. However, there is substantial variability in the 
+nature and course of cognitive symptoms in PD, with many patients 
+maintaining a stable or fluctuating course and others demonstrating more 
+rapid decline (Figure 57-3). Several variables associated with more rapid 
+cognitive decline have been identified, including age, disease duration, sex, 
+and specific genetic mutations. 
+
+FIGURE 57-3. 
+Change 
+incognitive 
+diagnostic 
+status 
+over time 
+ina 
+multi-site 
+Parkinsondisease 
+(PD) cohort. 
+The 
+number inside 
+eachnode 
+represents 
+the 
+number of people 
+withthe 
+correspondingcognitive 
+status 
+indicatedbyits 
+color. 
+The 
+nodes 
+withdashedlines 
+represent 
+people 
+withonlydata 
+fromthe 
+first 
+visit. 
+The 
+links 
+represent 
+the 
+groupparticipants 
+who 
+continuedtothe 
+next 
+visit. 
+PDD,PD 
+withdementia; 
+PD-MCI,PD 
+withmildcognitive 
+impairment; 
+PD-NCI,PD 
+withnocognitive 
+impairment. 
+(Reproducedwithpermissionfrom 
+Phongpreecha 
+T,CholertonB,Mata 
+IF,et 
+al. 
+Multivariate 
+predictionof dementia 
+inParkinson’s 
+disease. 
+NPJ 
+Parkinsons 
+Dis. 
+2020;6:20.) 
+
+
+Most patients with PD exhibit at least some decline in attention, working 
+memory, processing speed, or other executive functions, although the nature 
+and degree of impairments across other domains are variable. PDD is often 
+characterized by worsening visuospatial deficits, impaired verbal fluency, 
+difficulty planning or shifting to a new stimulus, slowed information 
+processing speed, and impaired memory. Memory impairment is most 
+frequently attributable to a retrieval deficit since recognition is often intact. 
+Procedural learning may be impaired, a pattern atypical in normal aging or in 
+AD. Some language skills are intact, such as vocabulary, while others that 
+
+
+
+tap additional cognitive domains, such as verbal fluency, may be impaired. 
+Mechanical aspects of speech are often impaired as well. Although PDD has 
+been previously characterized as a “subcortical” dementia to distinguish it 
+from cortical dementias such as AD, this characterization has been criticized 
+more recently and may serve simply as a gross depiction of the cognitive 
+profile. Indeed, recent research suggests that while initial mild cognitive 
+deficits in PD likely result from depleted dopamine in the midbrain and 
+resulting defects in the frontostriatal loop, cortical pathology is required for 
+progression to dementia. 
+
+
+DementiawithLewybodies Current consensus criteria for probable DLB include 
+
+
+(1)a diagnosis of dementia (defined as cognitive impairment sufficient to 
+impair functional abilities) and (2) two or more core clinical features 
+(fluctuating cognition, well-formed visual hallucinations, rapid eye 
+movement [REM] sleep behavior disorder, and/or one or more cardinal 
+motor symptoms of PD), or one core clinical features in the presence of one 
+or more indicative biomarkers (eg, reduced dopamine uptake on SPECT or 
+PET scan, REM sleep disorder diagnosed by polysomnography). As 
+discussed above, DLB and PDD share many of the same features, including 
+cognitive fluctuations, neuropsychiatric features, and motor symptoms. 
+However, the timing and severity of these symptoms may differ. Visual 
+hallucinations often occur earlier in DLB, delusions may be more common, 
+and a differential response to antiparkinsonian medications has been 
+reported. In terms of cognition, prominent visuospatial and executive 
+impairments are noted, similar to PDD. Memory impairments, although not 
+necessary for diagnosis, tend to be more prominent in DLB. It is thus 
+unsurprising that among patients with DLB, there tends to be a likelihood of 
+concurrent AD pathology. 
+Given the overlap in symptoms and pathology, differential diagnosis 
+between DLB and AD can thus also be difficult. The presence of visual 
+hallucinations in patients with MMSE scores greater than 20 is highly 
+suggestive of DLB. Neuropsychological studies have identified typical 
+cognitive profiles that may aid in diagnosis. In DLB, patients have more 
+difficulty than AD patients in copying complex designs, assembling pieces of 
+an object, or completing other tasks requiring visuospatial skills. In contrast, 
+AD subjects generally show significantly more impairment on delayed recall 
+tasks than patients with DLB. DLB patients have attentional skills that are 
+generally equivalent to those of AD patients; however, patients with DLB 
+
+
+
+exhibit significant attentional fluctuations. As a result, evaluating attention 
+over time is more helpful than the overall severity of attention problems in 
+the differential diagnosis. Finally, these cognitive profiles are most evident 
+early in the course of the diseases. As the diseases progress, all cognitive 
+functions become impaired and neuropsychological testing is less helpful for 
+diagnosis. 
+
+
+Palliative 
+care 
+concerns 
+specific 
+to 
+PD 
+andDLB There is increasing recognition that 
+appropriate palliative care that addresses cognitive changes in PD and DLB 
+is both vital and underutilized. Given the range of symptoms in PD and 
+associated caregiver and patient burden, an early focus on nonmotor 
+symptom control, adjustment to cognitive changes, and advance care planning 
+is strongly recommended in addition to routine care that has historically 
+focused nearly solely on motor symptom management. To address the 
+problems associated with increasing cognitive decline, occupational therapy, 
+integrated care models, and psychoeducational programs for patients and 
+family members may be helpful tools. In general, however, both patients and 
+caregivers report that they are not provided with enough information about 
+the nature and prognosis of the diagnosis, and thus lack the tools necessary to 
+address end-of-life care issues and mitigate problems associated with 
+advancing cognitive disease, such as medication reconciliation and home 
+safety issues. DLB is associated with specific difficulties in accessing 
+palliative care, largely due to lack of knowledge about the diagnosis in the 
+general medical community and related difficulty in adequately diagnosing 
+DLB. Further, patients with DLB often present with behavioral problems that 
+may result in difficulty accessing resources. As a result, patients are often not 
+appropriately medicated and physicians rarely discuss what to expect as the 
+disease progresses. Assessment resources such as the Palliative Care 
+Outcome Scale or the Edmonton Symptom Assessment System may be helpful 
+to identify care needs in patients. However, provider education is a vital 
+initial step to providing adequate community palliative care for PD/DLB. 
+
+
+Vascular Cognitive Impairment 
+
+
+VCI is an umbrella term that includes both mild VCI and major VCI (VaD) in 
+the context of imaging evidence for cerebrovascular disease. A diagnosis of 
+mild VCI requires impairment in at least one cognitive domain with mild or 
+no impairment in activities of daily living that are independent from any 
+motor or sensory impairments caused by the vascular event. A diagnosis of 
+
+
+
+major VCI (or VaD) requires significant deficits in at least one cognitive 
+domain along with correlated impairment in daily functional activities (again 
+that are independent of any motor or sensory sequelae associated with the 
+vascular event). VaD subtypes include poststroke dementia (the only subtype 
+that requires a clear temporal relationship between vascular event and 
+cognitive decline), subcortical ischemic VaD, multi-infarct dementia, or 
+mixed dementia (representing combined suspected vascular disease and 
+other neurodegenerative diseases including AD and LBD). 
+
+
+Cognitive profiles of patients with VCI, especially in mild or early 
+forms, can be quite variable given the underlying neuropathologic 
+heterogeneity associated with the diagnosis. Executive function deficits, 
+reduced verbal fluency, and slow processing speed are common. Depression, 
+irritability, and lack of initiative are also frequently seen in patients with 
+
+
+VCI. Contrary to long-standing clinical lore, VCI does not necessarily 
+present primarily with a clear temporal relationship to a known vascular 
+event nor to stepwise deterioration in cognition. Rather, continuous small 
+vessel insults can lead to slowly progressive decline in cognitive abilities. 
+Thus, it can be difficult to differentiate VaD from AD on the basis of the 
+clinical course of symptoms. Detailed review of cardiovascular risk factors 
+and cognitive profile may provide better differentiation. A review of studies 
+examining early-stage AD and VaD found that the latter group had more 
+pronounced deficits in executive function on tests such as the Wisconsin Card 
+Sorting Test and the executive function scale of the Mattis Dementia Rating 
+Scale than did adults with AD. Interestingly, performance between the two 
+groups was similar on tests of selective attention and working memory such 
+as the Trail-Making Test and Stroop Color Word Interference Test. In 
+contrast, VaD patients had better performance than AD patients on tests of 
+verbal learning and story recall, such as the California Verbal Learning Test 
+and the Logical Memory subtest of the Wechsler Memory Scale-Revised 
+(WMS-R), with fewer intrusions. However, VCI can impact the structure and 
+function of the hippocampus, thus leading to more notable memory deficits in 
+some patients, although these impairments may not occur until later in the 
+disease process. Because memory impairment is most often the reason 
+patients seek evaluation, adults with VaD may have more progressed 
+dementia and greater cognitive impairment at the time of diagnosis. It is 
+important to note that as both VaD and AD progress, the cognitive profiles 
+become more similar, so that differentiating mid-stage disease is very 
+
+difficult. In addition, neuropathologic studies have shown that many patients 
+previously diagnosed with VaD due to presence of vascular risk factors such 
+as diabetes, hypertension, and radiologic evidence of ischemia have 
+prominent AD pathology as well. Prevalence estimates of the co-occurrence 
+of AD and VaD range from 20% to 40% of patients with dementia. Few 
+studies have attempted to differentiate between mixed AD/VaD and either 
+form of dementia on a neuropsychological basis, although it has been 
+suggested that mixed dementia most closely resembles VaD from a cognitive 
+perspective. Vascular pathology increases the likelihood that patients with 
+neuropathologic AD will show significant cognitive impairment. 
+
+
+Palliative 
+care 
+concerns 
+specific 
+to 
+VCI Given the variable (and often unknown) 
+progression of cognitive symptoms in VCI, palliative care concerns are 
+likely to be patient-specific, and may include lifestyle interventions aimed at 
+maximizing retained cognitive abilities, quality of life, and overall physical 
+health. Occupational therapy, psychoeducation, managing comorbid 
+depression, and training and support for caregivers may all be helpful 
+interventions. In advanced major VCI, palliative care interventions and endof-
+life planning and preparation similar to those used most frequently in AD 
+are recommended. 
+
+
+Frontotemporal Lobar Degeneration 
+
+
+Frontotemporal lobar degeneration (FTLD) is caused by a range of 
+underlying neuropathologic conditions (including intracellular inclusions of 
+tau or transactive response DNA-binding protein [TDP-43], among others). 
+FTLD onset occurs at slightly younger ages than other conditions such as AD, 
+with onset occurring most commonly in the late 50s-to-early 60s. It is thought 
+to be the second most common form of dementia in individuals under the age 
+of 65. Roughly 30% to 40% of FTLD cases are linked to genetic mutations, 
+including granulin (GRN) and microtubule-associated protein tau (MAPT) 
+mutations, and patients with some types of genetic mutations may develop 
+symptoms at even earlier ages. As with AD, FTLD patients show insidious 
+onset of symptoms with a gradual progression. Various clinical presentations 
+can be caused by FTLD, primarily resulting in gradually progressive 
+disturbances in language and/or behavior. Although comparisons of AD and 
+FTLD groups do not always reveal significantly different cognitive profiles, 
+in general, FTLD patients show relatively spared memory performance in 
+comparison to their executive and language functioning, especially when 
+
+
+
+memory cues are provided. Apraxia is also more common in FTLD than in 
+AD. Often a multidisciplinary approach may be most helpful in the 
+differential diagnosis since studies indicate that up to 75% of pathologically 
+confirmed FTLD patients also appear to meet clinical criteria for probable 
+AD, and certain subtypes of FTLD are often misdiagnosed as a primary 
+psychiatric disorder early on. The following diagnostic variants are currently 
+recognized as most likely resulting from FTLD, although the extent to which 
+these conditions may have shared pathology with other diseases, and the 
+likelihood that these represent distinct disorders is not currently well 
+defined. 
+
+
+Behavioral 
+variant FTLD This diagnostic category (bvFTD) accounts for nearly 
+50% to 60% of all FTLD diagnoses. This variant most often presents initially 
+with a prominent decline in social cognition and behavior and/or executive 
+dysfunction, with relative sparing of other cognitive functions, and includes 
+at least three of the following: (a) disinhibition, (b) apathy, (c) diminished 
+empathy/sympathy, (d) perseverative, stereotyped, or compulsive behaviors, 
+and/or (e) hyperorality/dietary changes. These behavioral and/or executive 
+symptoms are the source of impairment in daily activities. While these 
+criteria are sufficient for a diagnosis of “possible” bvFTD, a diagnosis of 
+“probable” bvFTD requires neuroimaging findings of disproportionate 
+frontal or temporal lobe involvement, or a pathogenic mutation. Early in the 
+disease process, performances on formal neuropsychological testing may be 
+remarkably well preserved, underscoring the importance of a thorough 
+diagnostic interview and history with the patient and an informant; however, 
+many individuals do display impaired selective and divided attention, 
+difficulty shifting mental set, poor abstraction and reasoning, impaired verbal 
+fluency, and perseverations. Unfortunately, cognitive screeners such as the 
+MMSE are not very helpful in screening for early bvFTD since many patients 
+score within normal limits early in the disease. 
+
+
+Primaryprogressive 
+aphasia PPA typically occurs in the fifth or sixth decade of 
+life, and its rate of progression varies greatly. The diagnosis of PPA requires 
+initial prominent language dysfunction with relative sparing of other 
+cognitive domains early on, and the absence of radiologic evidence of 
+cerebrovascular or other neurologic injury that would account for the 
+aphasia. Because anomia and other language deficits may occur in a number 
+of neurodegenerative conditions, the differential diagnosis of PPA rests on 
+the clear demonstration that nonlinguistic cognitive and behavioral functions 
+
+
+
+are intact during the initial stages of the disease. The clinician must carefully 
+determine whether poor performance on memory and other nonlanguage tests 
+is due to language deficits such as impaired comprehension of instructions. 
+Differential diagnosis is also complicated by the heterogenous etiologies of 
+PPA demonstrated by the different subtypes. Although not consistent across 
+all cases, agrammatic PPA is often associated with tau pathology, logopenic 
+PPA with AD pathology (although not always in brain regions typically 
+associated with AD), and semantic PPA with TDP-43 pathology. PPA 
+variants include (1) agrammatic/nonfluent aphasia and (2) semantic variant 
+PPA (sometimes called semantic dementia [SD]). As noted, a third variant, 
+LPA, is often included under the larger umbrella of PPA; however, 
+neuropathologically, LPA is primarily attributed to AD-type pathology, so it 
+is often considered a language-variant of AD. 
+
+
+Progressive 
+Nonfluent/Agrammatic 
+Aphasia Progressive nonfluent/agrammatic 
+aphasia (PNFA) is characterized by labored articulation and/or 
+agrammatism, frequently occurring alongside apraxia of speech. Patients with 
+PNFA also typically have intact comprehension for simple speech and 
+phrases but impaired comprehension for complex or syntactically irregular 
+phrases. Semantic knowledge is also well preserved. 
+
+
+Semantic 
+Dementia SD, on the other hand, involves a loss of ability to 
+understand words (semantic knowledge of words and objects), which is 
+accompanied by marked deficits in confrontational naming. Other deficits 
+include difficulty with visual recognition of objects, dyslexia, and 
+dysgraphia. Patients with semantic dementia may display prominent visual 
+agnosias and may not be able to demonstrate object use accurately. In 
+contrast to PNFA, speech production remains intact in early disease as does 
+repetition. 
+
+
+Logopenic 
+Aphasia LPA is the most recently characterized PPA variant. LPA 
+presents with impaired word retrieval in spontaneous speech and difficulty 
+with naming, in addition to impaired sentence repetition, and in some 
+instances, sentence comprehension. The hypothesized mechanism behind 
+some of the language deficits in LPA, especially impaired sentence 
+repetition, is a deficiency in short-term working memory, and hence, singleword 
+repetition, which requires minimal working memory, is well 
+preserved. The naming deficit in LPA is not as dramatic as in SD, and these 
+patients also have preserved object knowledge. While patients with LPA 
+
+
+
+demonstrate effortful word retrieval, this again is less severe than in PNFA 
+and their speech is usually grammatically accurate and free from motor 
+speech abnormalities, which marks another useful distinction between LPA 
+and other PPA subtypes. 
+
+
+FTLD 
+movement disorders Certain movement disorders, which may also include 
+behavioral and/or language disturbance, may be caused by or associated with 
+FTLD. 
+
+
+FTLD-Motor 
+Neuron 
+Disease Frontotemporal dementia with motor neuron disease 
+(FTD-MND) tends to be a rapidly progressive condition, with death 
+typically occurring 3 to 5 years after symptom onset. Age of onset is more 
+variable and can range from 35 to 75, on average. The FTD-MND syndrome 
+is typically characterized by gradual onset of both cognitive and psychiatric 
+symptoms, in addition to, though not necessarily simultaneously to, 
+development of classic upper and/or lower motor neuron dysfunction, such 
+as muscle wasting, paraparesis, fasciculations, or abnormal reflexes. Early 
+bulbar involvement can also lead to symptoms of dysphagia and 
+pseudobulbar affect, or uncontrollable episodes of laughing or tearfulness. 
+Behaviorally, these patients may display similar symptoms to patients with 
+bvFTD. Cognitive symptoms can include variable language and executive 
+dysfunction. 
+
+
+Progressive 
+Supranuclear 
+Palsy Although Lewy bodies are found in only the 
+minority of progressive supranuclear palsy (PSP) cases, PSP is frequently 
+misdiagnosed as PD. A core feature of the disorder is vertical supranuclear 
+gaze palsy, although this symptom may not present early in the course of the 
+disease. Patients also present with postural instability, and falls are often 
+seen shortly after onset. Cognition is characterized by mental and 
+psychomotor slowing and notable executive dysfunction, often fairly early in 
+the disease course. Memory impairments are observed, but they are not as 
+severe as in AD. Language functions resemble those seen in PD. Visual 
+spatial deficits and increased apathy are also observed. 
+
+
+Corticobasal 
+Syndrome Corticobasal syndrome (CBS) is the primary clinical 
+phenotype of corticobasal degeneration, which is characterized by abnormal 
+tau deposition, and relatively focal and asymmetric cortical atrophy in frontal 
+and parietal brain regions on imaging. The mean age of onset for CBS is in 
+the early 60s. CBS is characterized by progressive, asymmetric motor 
+symptoms such as tremor, loss of coordination, rigidity, and myoclonus, and a 
+
+
+
+higher prevalence of alien limb syndrome. Unilateral apraxia (most 
+commonly ideomotor) is common. A range of language abnormalities 
+including slowed verbal fluency, and/or executive dysfunction may also be 
+seen in CBS. In contrast to AD, memory is typically well preserved early on, 
+but may worsen with disease progression and may even become prominent in 
+some patients. Neuropsychiatric and behavioral symptoms are common and 
+can include apathy, personality change, disinhibition, and irritability. 
+
+
+Palliative 
+care 
+concerns 
+specific 
+to 
+FTLD Given the heterogeneity in FTLD 
+phenotypes, care recommendations vary by subtype. Many of the core 
+symptoms of bvFTD and related subtypes, including impulsivity, poor 
+judgment, and disinhibition, can be distressing for family members, so 
+education about bvFTD and early support for family and caregivers is 
+essential. Education about possible environment and behavioral 
+modifications is recommended and typically focuses on mitigating safety 
+risks (eg, driving impulsively, poor management of money, falling victim to 
+scams, etc) given reductions in insight and self-awareness are quite common 
+in bvFTD. Early consultation with a psychiatrist is often helpful as well; 
+there is some evidence that treatment with selective serotonin reuptake 
+inhibitors may be helpful in managing unwanted behavioral symptoms. 
+Patients with either primary (PPA subtypes) or secondary language 
+dysfunction (PSP; CBS; FTD-MND) may benefit from consultation with a 
+speech-language pathologist (SLP) early on in the course of their disease, 
+who may be able to provide useful strategies. Augmentative and alternative 
+communication devices can also be employed as the condition progresses. 
+SLPs may also be of benefit as part of a multidisciplinary team as some of 
+these patients may have, or go on to develop, dysarthria and/or dysphagia. 
+Physical therapy can also be a valuable tool to assist with early motor 
+dysfunction in FTD-MND, PSP, and CBS. Like most neurodegenerative 
+conditions, motor and/or sensory dysfunction can occur in other FTLD 
+subtypes as well as the disease progresses to moderate or severe stages. 
+
+
+Dementia Due to Suspected Non-Alzheimer Disease Pathophysiology 
+
+
+Dementia due to suspected non-Alzheimer disease pathophysiology (SNAP) 
+is a relatively new biomarker-based term that is used to describe individuals 
+who have evidence of neurodegeneration on neuroimaging, but who lack 
+biomarkers classic to AD—specifically, amyloid. SNAP is more prevalent 
+with increasing age. While there is little evidence of SNAP in persons 
+
+
+
+younger than 50, prevalence increases with increasing age after the age of 60. 
+Most commonly, the term SNAP has been used to describe individuals with 
+either normal cognition or MCI who lack evidence of clinically significant 
+amyloid but have evidence of neurodegenerative changes in the brain. 
+Neurodegeneration characteristic of SNAP is also observed in individuals 
+with clinical dementia; however, these individuals’ condition is usually 
+attributed to a non-AD etiology based on clinical presentation (eg PPA, 
+DLB), and it is hypothesized that TDP-43, hippocampal sclerosis, vascular 
+disease, and/or other pathophysiological processes may be the causative 
+factor. No definitive cognitive phenotype has been identified in individuals 
+with SNAP who are deemed clinically normal, though SNAP does appear to 
+confer risk for subsequent cognitive decline. Not surprisingly, those with 
+SNAP and MCI have greater likelihood of progression to dementia than those 
+with SNAP and no evidence of MCI. Further, those with SNAP, regardless of 
+cognitive status, have a greater risk of decline compared to those without 
+SNAP. The data is mixed on the risk of decline in SNAP compared to those 
+without SNAP but who are amyloid and/or tau positive, though it is generally 
+accepted that the presence of neurodegeneration, amyloid, and tau combined 
+confers the greatest risk for accelerated cognitive decline. 
+
+
+Limbic-Predominant Age-Related TDP-43 Encephalopathy 
+
+
+Limbic-predominant age-related TDP-43 encephalopathy (LATE) is a 
+common, but relatively recently described finding in those in their eighth or 
+ninth decade of life. Estimates vary, but recent autopsy studies of individuals 
+aged 80 and older have identified evidence of LATE in 5% to 50% of their 
+samples. This proteinopathy was first discovered in autopsies of individuals 
+with cognitive impairment that mimicked AD; that is, these individuals had 
+an amnestic cognitive syndrome similar to AD. Like AD, LATE can also 
+evolve to include multiple cognitive domains but the clinical presentation 
+remains distinct from other TDP-related conditions such as FTLD-TDP. 
+Given the occurrence in very late life, it is unsurprising that the pathological 
+changes of LATE often co-occur with those of AD, LBD, and/or VCI. While 
+data on this entity is still in its infancy, there is some indication cognitive 
+changes progress more slowly in those who only have evidence of LATE 
+compared to those with evidence of multiple pathologies. 
+
+
+Alcohol-Related Dementia 
+
+
+
+Contradictory evidence exists as to the role of mild-to-moderate alcohol and 
+risk for developing certain dementias, including AD and VaD. Chronic and 
+profound alcohol use, however, can have a negative effect on cognition and 
+may exacerbate the cognitive symptoms of other dementias and brain injuries. 
+Poor nutrition (thiamine deficiency in particular) resulting from alcohol 
+abuse is a primary contributor to the onset of cognitive problems. In addition, 
+liver disease can interfere with thiamine regulation in the brain and may be a 
+factor in the multiple cognitive and motor impairments associated with longterm 
+alcohol use. 
+
+
+Persistent alcohol 
+dementia Alcohol dementia involves impairment in more than 
+one area of cognitive function that persists after the patient stops drinking for 
+a period of time. Visuospatial problem-solving deficits and executive 
+problems, including apathy, decreased judgment, and reduced interest in selfcare, 
+are prominent in these patients. Memory problems, in particular 
+anterograde amnesia, are also common, but are generally not more impaired 
+than other cognitive domains, and recognition is often intact. Typical 
+neuropsychological sequelae include impairments on tasks requiring visual 
+scanning, visuospatial organization, perceptual-motor speed, sustained 
+attention, abstraction, and mental flexibility, while language functions are 
+generally preserved. Perseveration and confabulation are common indicators 
+of impaired executive function in the responses of patients with chronic 
+alcohol use. It is also noteworthy that chronic alcohol use may potentiate the 
+onset of AD, and produce a clinical picture of conjoint cognitive deficits. 
+
+
+Wernicke–Korsakoffsyndrome The most severe neurologic outcome of heavy and 
+prolonged alcohol use, and the result of critical malnutrition, is Wernicke– 
+Korsakoff syndrome. In contrast to patients with persistent alcohol dementia, 
+Wernicke–Korsakoff patients exhibit an acute symptom onset, often beginning 
+with a grave confusional state, nystagmus, and significant ataxia. During this 
+phase, symptoms progressively and rapidly worsen if treatment (immediate 
+thiamine replacement) is not applied. This phase is almost always followed 
+by a chronic and progressive stage that is associated primarily with impaired 
+frontal and cerebellar functions. Unlike persistent alcohol dementia, 
+Korsakoff patients have significant impairments in memory relative to other 
+cognitive effects, and memory impairment includes both retrograde and 
+anterograde amnesia for episodic events, frequently with prominent 
+confabulation. In contrast to AD, semantic memory is relatively spared in the 
+Korsakoff patient. Patients show a characteristic gradient of remote memory 
+
+
+
+impairment, with better recall for remote events and progressively reduced 
+recall of recent events. As with persistent alcohol dementia, executive 
+dysfunction and visuospatial impairments are also significant symptoms of 
+the syndrome. Cerebellar atrophy and peripheral nerve damage lead to 
+impaired gait, decreased or abnormal reflexes, and other movement 
+abnormalities in these patients. 
+
+
+Palliative 
+care 
+concerns 
+specific 
+to 
+alcohol-relateddementias Alcohol-related 
+dementias, unlike progressive dementias such as AD and DLB, may be 
+amenable to interventions if made in a timely manner (such as drinking 
+cessation and nutritional supplementation), which may improve cognitive 
+symptoms or stall further cognitive decline. Once these important 
+interventions have been put in place, encouraging skill maintenance, 
+providing adequate scaffolding for cognitive skills, maintaining daily 
+structure and routine, and help with general self-care may be useful for 
+maintaining maximal cognitive function. 
+
+
+Prion Diseases 
+
+
+The prion diseases are a group of rare fatal spongiform encephalopathies that 
+result from mutations and polymorphisms in the prion protein gene (PrP), 
+causing rapid neurodegeneration. These diseases, of which Creutzfeldt– 
+Jakob is the most well-known, produce a profound and quickly progressive 
+dementia, and may be sporadic, familial, or infectious. Sporadic cases are 
+the most common, and are generally diagnosed in people in their 60s, with a 
+typical age range between 40 and 80. Early cognitive signs of the prion 
+diseases are usually vague and nonspecific, such as poor memory, 
+concentration, and problem solving. Initially, there are also often psychiatric 
+symptoms, including apathy, emotional lability, impaired sleep, and appetite 
+loss. Early frank neurologic symptoms are not common, but as the disease 
+progresses, hyperreflexia, impaired coordination, changes in saccadic eye 
+movements, and incontinence may occur. Given the early vague symptoms 
+and dearth of neurologic symptoms, patients are not likely to present for 
+evaluation until they are in the more moderate-to-advanced stages, which can 
+occur in a matter of months. Diagnosis typically involves measuring 
+electroencephalographic changes, hyperintensities on MRI, and abnormal 143-
+3 protein deposits in the CSF. The most common differential diagnoses 
+include depression, AD, and LBD. Given the generally rapid course of 
+disease in combination with diagnosis that typically occurs in the later stages 
+
+
+
+of disease, palliative care often consists largely of hospice care, social work 
+interventions to address disability and making end-of-life decisions, and 
+bereavement resources and interventions for caregivers. 
+
+
+Normal Pressure Hydrocephalus 
+
+
+NPH is a potentially reversible dementia that makes up about 6% of 
+dementia cases. Abnormalities in the production, absorption, or flow of CSF 
+result in ventricular dilatation. Patients may present with a triad of clinical 
+symptoms that include gait or balance disturbance, urinary incontinence, and 
+cognitive deficits. Unlike most other dementias, cognitive symptoms often 
+present later in the course. This can make early clinical diagnosis difficult 
+since gait abnormalities and incontinence have a variety of etiologies in 
+geriatric populations. Radiographic evidence and intraventricular pressure 
+measurement aid in the diagnosis. When cognitive deficits are present, they 
+are most frequently observed in executive functioning. Although many 
+subjects may have subjective memory complaints, memory deficits are not a 
+prominent early symptom, and some memory declines are attributable to 
+attention problems, which are more common. However, many of these 
+patients may have concurrent underlying neurodegenerative disease, and thus 
+may present with varied cognitive profiles. 
+
+
+When treated, a ventriculoperitoneal shunt is usually used to divert CSF 
+for better absorption. However, surgery in geriatric populations always 
+involves added risks, and the benefits of shunt surgery remain unclear. A 
+wide variety of success rates have been reported, with better outcomes often 
+reported after shorter follow-up periods. Patients with the full triad of 
+symptoms appear to respond best to shunt surgery. Gait problems show the 
+most frequent improvement, while cognitive function improves in the fewest 
+patients. Recently, findings from a 5-year follow-up of NPH patients with 
+and without shunt surgery showed that at the 6-month assessment, 83% of the 
+shunt cases improved in gait and 46% improved in memory. Of surviving 
+shunt cases 5 years after surgery, 39% remained improved in gait, and fewer 
+than 10% continued to show improvements on cognitive tests. Results 
+suggested that outcomes may be improved in younger patients. Palliative care 
+may involve inpatient and outpatient rehabilitation, physical therapy, 
+occupational therapy, and other interventions aimed at maximizing retained 
+cognitive functions. 
+
+
+
+HIV-Associated Neurocognitive Disorder 
+
+
+Although there is often the perception that geriatric patients are not at risk for 
+human immunodeficiency virus (HIV) infection, the Centers for Disease 
+Control and Prevention reported that 10% of all HIV cases in the United 
+States are in patients of 50 years or older, and these numbers are expected to 
+grow. With the use of combination antiretroviral therapies, progression to 
+HIV-associated dementia is rare (2–3%). However, the prevalence of milder 
+cognitive deficits is more frequent, with prevalence estimates ranging from 
+50% to 60%. Commonly affected areas of cognition are speed of information 
+processing, attention, and motor speed, although it is increasingly recognized 
+that impairments in broader executive functions, learning, and prospective 
+memory are prevalent. As a result, differentiating these symptoms from early 
+AD can be difficult clinically and may require more careful evaluation of 
+both AD- and HIV-related CSF and imaging biomarkers. Palliative care 
+depends upon severity of disease but should focus on managing potential 
+multiple medical and psychosocial comorbidities and end-of-life planning as 
+appropriate. 
+
+
+Neurosyphilis 
+
+
+Despite successes in treatment and education, syphilis cases have continually 
+increased since 2000. Neurosyphilis can occur any time during the disease; 
+however, syphilitic dementia may occur as the disease advances (generally 
+5–25 years after initial infection) that may present with hallucinations, 
+delusions, mood disturbance, personality change, strokes, ataxia, or cognitive 
+decline. Deficits are observed in short-term memory and mental status with 
+progressive cognitive decline in all areas of functioning. Although 
+neurosyphilis is often classified as a reversible dementia, there is only 
+limited evidence to support cognitive benefits with penicillin treatment. 
+Thus, following treatment with penicillin, palliative care may include 
+occupational therapy or cognitive rehabilitation to help maximize remaining 
+cognitive function. Neurosyphilis is more likely to occur in patients with 
+comorbid HIV, and thus both should be considered during differential 
+diagnosis. Neurosyphilis should further be considered in a differential 
+diagnosis of dementia of unclear etiology in geriatric patients. 
+
+
+CONCLUSION 
+
+
+
+We have greatly furthered our understanding that age-related medical 
+conditions not considered classically neurologic in nature can nevertheless 
+impact the central nervous system and thereby affect cognition. This 
+knowledge has led to the realization that many of the changes in cognition 
+previously thought to be unavoidable concomitants of normal aging are in 
+fact preventable and in some cases even reversible. The deleterious 
+consequences of not treating such disorders have become evident, given that 
+many common diseases such as T2DM and hypertension appear to be risk 
+factors for dementia. In turn, early identification of dementia or the 
+prodromal condition MCI will become critical as therapeutic options for 
+delaying disease progression proliferate. Careful characterization of 
+cognitive status through neuropsychological assessment can provide the 
+clinician with essential information to determine whether the patient is 
+experiencing symptoms that warrant concern or further treatment. As the field 
+of geriatrics approaches the goal of controlling or even preventing endemic 
+late-life chronic diseases, it will become increasingly clear that deleterious 
+cognitive changes that occur with healthy aging are fewer and more subtle 
+than we thought, and that they are accompanied by age-related strengths in 
+experience and knowledge that will enable us to lead vital, productive lives 
+well into our 80s and beyond. 
+
+
+FURTHERREADING
+Albert MS, DeKosky ST, Dickson D, et al. The diagnosis of mild cognitive 
+impairment due to Alzheimer’s disease: recommendations from the 
+National Institute on Aging-Alzheimer’s Association workgroups on 
+diagnostic guidelines for Alzheimer’s disease. Alzheimers Dement. 
+2011;7(3):270–279. 
+
+
+Bennett S, Thomas AJ. Depression and dementia: cause, consequence or 
+coincidence? 
+Maturitas. 2014;79(2):184–189. 
+
+
+Berger I, Wu S, Masson P, et al. Cognition in chronic kidney disease: a 
+systematic review and meta-analysis. BMC Med. 2016;14(1):206. 
+
+
+Biessels GJ, Despa F. Cognitive decline and dementia in diabetes mellitus: 
+mechanisms and clinical implications. Nat Rev Endocrinol. 
+2018;14(10):591–604. 
+
+
+
+Burkauskas J, Lang P, Bunevičius A, et al. Cognitive function in patients with 
+coronary artery disease: a literature review. J Int Med Res. 
+2018;46(10):4019–4031. 
+
+
+Cairns NJ, Bigio EH, Mackenzie IR, et al. Neuropathologic diagnostic and 
+nosologic criteria for frontotemporal lobar degeneration: consensus of 
+the Consortium for Frontotemporal Lobar Degeneration. Neuropathol. 
+2007;114(1):5–22. 
+
+
+Cheng C, Huang CL, Tsai CJ, et al. Alcohol-related dementia: a systematic 
+review of epidemiological studies. Psychosomatics. 2017;58(4):331– 
+342. 
+
+
+Emre M, Aarsland D, Brown R, Clinical diagnostic criteria for dementia 
+associated with Parkinson’s disease. Mov Disord. 2007;22(12):1689– 
+1707. 
+
+
+Inouye SK, Westendorp RG, Saczynski JS. Delirium in elderly people. 
+Lancet. 2014;383(9920):911–922. 
+
+
+Iwasaki Y. Creutzfeldt-Jakob disease. Neuropathology. 2017;37(2):174– 
+188. 
+
+
+Krause D, Roupas P. Effect of vitamin intake on cognitive decline in older 
+adults: evaluation of the evidence. J Nutr Health Aging. 
+2015;19(7):745–753. 
+
+
+Laursen P. The impact of aging on cognitive function: an 11-year follow-up 
+study of four age cohorts. Acta Neurol Scand Suppl. 1997;172:7–86. 
+
+
+Litvan I, Goldman JG, Tröster AI, et al. Diagnostic criteria for mild 
+cognitive impairment in Parkinson’s disease: Movement Disorder 
+Society Task Force guidelines. Mov Disord. 2012;27(3):349–356. 
+
+
+Loggia G, Attoh-Mensah E, Pothier K, et al. Psychotropic polypharmacy in 
+adults 55 years or older: a risk for impaired global cognition, executive 
+function, and mobility. Front Pharmacol. 2020;10:1659. 
+
+
+McKeith IG, Boeve BF, Dickson DW. Diagnosis and management of 
+dementia with Lewy bodies: fourth consensus report of the DLB 
+consortium. Neurology. 2017;89(1):88–100. 
+
+
+McKhann GM, Knopman DS, Chertkow H, et al. The diagnosis of dementia 
+due to Alzheimer’s disease: recommendations from the National Institute 
+on Aging-Alzheimer’s Association workgroups on diagnostic guidelines 
+for Alzheimer’s disease. Alzheimers Dement. 2011;7(3):263–269. 
+
+
+Olaithe M, Bucks RS, Hillman DR, et al. Cognitive deficits in obstructive 
+sleep apnea: insights from a meta-review and comparison with deficits 
+
+
+
+observed in COPD, insomnia, and sleep deprivation. Sleep Med Rev. 
+2018;38:39–49. 
+
+
+Oliveira LM, Nitrini R, Román GC. Normal-pressure hydrocephalus: a 
+critical review. Dement Neuropsychol. 2019:13(2):133–143. 
+
+
+Skrobot OA, Black SE, Chen C, et al. Progress toward standardized 
+diagnosis of vascular cognitive impairment: Guidelines from the Vascular 
+Impairment of Cognition Classification Consensus Study. Alzheimers 
+Dement. 2018;14(3):280–292. 
+
+
+Smail RC, Brew BJ. HIV-associated neurocognitive disorder. Handb Clin 
+Neurol. 2018;152:75–97. 
+
+
+
+Chapter 
+
+
+Delirium 
+
+
+Matthew 
+E. 
+Growdon, 
+Tanya Mailhot, 
+Jane S. 
+Saczynski, 
+Tamara 
+
+
+G. 
+Fong, 
+Sharon 
+K. 
+Inouye 
+Delirium, an acute disorder of attention and global cognitive function, is a 
+common, serious, and potentially preventable source of morbidity and 
+mortality for hospitalized older persons. Delirium affects as many as half of 
+all people age 65 and older who are hospitalized. With the aging of the US 
+population, delirium has assumed heightened importance because persons 
+aged 65 and older presently account for nearly 40% of all days of hospital 
+care. Total costs attributable to delirium spanning the hospital and 
+posthospital period exceed $60,000 per patient; annually over $183 billion 
+(in 2018 US dollars) of US health care costs are attributable to delirium. 
+Importantly, delirium is preventable in up to 50% of cases. Substantial 
+additional costs linked to delirium accrue after hospital discharge because of 
+the increased need for institutionalization, rehabilitation services, closer 
+medical follow-up, and home health care. Delirium often initiates a cascade 
+of events in older persons, leading to a downward spiral of functional and 
+cognitive decline, loss of independence, institutionalization, and ultimately, 
+death. Delirium is a critical risk marker to identify patients at high risk for 
+poor outcomes. Recently, this fact has been underscored in the care of 
+patients affected by severe acute respiratory syndrome coronavirus 2 
+(SARS-CoV-2) during the COVID-19 pandemic, as those who present with 
+delirium experience worse hospital outcomes compared to those who do not. 
+With its common occurrence, its frequently iatrogenic nature, and its close 
+linkage to the processes of care, incident delirium can serve as a marker for 
+the quality of hospital care and provides an important opportunity for quality 
+improvement. 
+
+
+
+DEFINITION 
+
+
+The definition of and diagnostic criteria for delirium continue to evolve. 
+Standardized criteria for delirium in the American Psychiatric Association’s 
+
+
+Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition 
+
+
+(DSM-5, 2013) represent the current diagnostic standard. These criteria are 
+based on (A) a disturbance in attention and awareness; (B) an acute onset 
+and fluctuating course; (C) an additional deficit in cognition (such as 
+memory, orientation, language, or visuoperceptual ability); (D) impairments 
+not better explained by dementia and do not occur in context of severely 
+impaired level of consciousness or coma; and (E) evidence of an underlying 
+medical etiology or multiple etiologies. Expert consensus was used to 
+develop these criteria, however, and performance characteristics such as 
+diagnostic sensitivity and specificity have not yet been reported for DSM-5 
+criteria. A standardized tool, the Confusion Assessment Method (CAM), 
+provides a brief, validated diagnostic algorithm that is currently in 
+widespread use for identification of delirium. The CAM algorithm relies on 
+the presence of acute onset and fluctuating course, inattention, and either 
+disorganized thinking or altered level of consciousness. The algorithm has a 
+sensitivity of 94% to 100%, specificity of 90% to 95%, and high interrater 
+reliability. Given the uncertainty of diagnostic criteria for delirium, a critical 
+area for future investigation is to establish more definitive criteria, including 
+epidemiologic and phenomenologic evaluations assisted by advances in 
+neuroimaging and other potential diagnostic marker tests. 
+
+
+LearningObjectives
+■ 
+Learnthe 
+epidemiology,pathophysiology,clinicalpresentations,evaluation,andmanagementof 
+deliriuminolder adults. 
+■ 
+Understandthe 
+role 
+of various 
+predisposingandprecipitatingfactors 
+inincreasingriskof older 
+persons 
+todeliriumandassociatedprognosis 
+andmortality. 
+■ 
+Learnthe 
+specialrelationshipbetweendementia 
+anddeliriumandthe 
+role 
+of certainmedications 
+inpredisposingolder adults 
+todelirium. 
+■ 
+Recognize 
+thatdeliriumis 
+preventable 
+inupto50% 
+of cases 
+withproveneffective 
+nonpharmacologic 
+approaches. 
+■ 
+Gaina 
+clear understandingof the 
+specific 
+indications 
+andefficacyof various 
+treatments,including 
+pharmacologic 
+andnonpharmacologic 
+strategies 
+commonlyusedtomanage 
+delirium. 
+
+■ 
+Understandthe 
+latestconcepts 
+aboutspecialissues 
+relatedtodelirium,includingthe 
+COVID-19 
+pandemic,patient 
+preferences 
+anddecisionmaking,nursinghome 
+care,andpalliative 
+andend-oflife 
+care. 
+KeyClinicalPoints
+1. 
+Delirium is commonly encountered in older adults in various 
+clinical settings and associated with significant morbidity and 
+mortality, especially in intensive care units, inpatient settings, 
+nursing homes, and following major medical illnesses or surgery. 
+2. 
+Delirium is unrecognized in up to 70% of older patients and can 
+lead to long-term functional and cognitive deficits. 
+3. 
+The pathophysiology of delirium is currently unclear but posited 
+to be the end result of multiple pathogenic pathways eventually 
+culminating in the dysfunction of various neurotransmitters and 
+major brain networks. 
+4. 
+Delirium is commonly due to multiple causes and is preventable in 
+up to 50% of cases through addressing as many predisposing and 
+precipitating factors as possible. 
+5. 
+Among the precipitating factors, decreased mobility is strongly 
+associated with delirium, and medical equipment and devices may 
+further contribute to immobilization. 
+6. 
+Dementia is the underlying risk factor in up to two-thirds of 
+cases of delirium and must be suspected in patients with slowly 
+progressive cognitive and functional deficits. 
+7. 
+Acute onset, varying levels of alertness, and inattention are 
+cardinal features of delirium, and obtaining historical details from 
+a close family member or friend is critical in making a correct 
+diagnosis of delirium. 
+8. 
+Nonpharmacologic strategies are the preferred treatment for 
+delirium in older patients, and medications are reserved for more 
+severe symptoms that affect either medical management or 
+patient safety. 
+
+EPIDEMIOLOGY 
+
+
+Most of the epidemiologic studies of delirium involve hospitalized older 
+patients, in whom the highest rates of delirium occur. Reported rates vary 
+based on the subgroup of patients studied and the setting of care. Previous 
+studies estimated the prevalence of delirium (present at the time of hospital 
+admission) at 7% to 80% and the incidence of delirium (new cases arising 
+during hospitalization) at 8% to 82%. The highest prevalence and incidence 
+rates occur among ventilated intensive care unit patients. The incidence rates 
+of delirium in high-risk hospital venues, such as the intensive care unit and 
+surgical settings, range from 16% to 82% and 8% to 58%, respectively. 
+Delirium occurs in up to 48% of patients in nursing homes or postacute 
+settings, and in up to 83% of all patients at the end of life. The rates of 
+delirium in all older persons presenting to the emergency department in 
+several studies have ranged from 8% to 27%. While less frequent in the 
+community setting, delirium is an important presenting symptom to outpatient 
+clinics and often heralds serious underlying disease. Delirium is often 
+unrecognized. Previous studies have documented that clinicians fail to detect 
+up to 70% to 85% of affected patients across all of these settings. 
+Furthermore, the presence of delirium portends a potentially poor prognosis. 
+Delirium in the intensive care unit is associated with a fourfold increased 
+risk of in-hospital mortality and a sixfold increased risk of mortality at 6 
+months. In the emergency department, delirium is associated with a sevenfold 
+increased risk of mortality at 6 months. Longer lengths of stay, cognitive and 
+functional sequelae lasting up to 1 year postoperatively, and 
+institutionalization are also consequences of delirium. 
+
+
+PATHOPHYSIOLOGY 
+
+
+The fundamental pathophysiologic mechanisms of delirium remain unclear. 
+Delirium is thought to represent a functional rather than structural lesion. The 
+characteristic electroencephalographic (EEG) findings demonstrate global 
+functional derangements and generalized slowing of cortical background 
+(alpha) activity. It has been hypothesized that delirium is mediated via a final 
+common pathway of different but interacting pathogenic mechanisms leading 
+to dysfunction of multiple brain regions and neurotransmitter systems and 
+
+
+
+culminating in disruption of large-scale networks. Evidence for a single 
+pathway is lacking, and it remains difficult to ascribe delirium to a distinct 
+neurobiological mechanism. Another hypothesis which has gained favor is 
+that delirium occurs in the setting of an acute stressor, such as surgery or 
+sepsis, superimposed on an underlying brain vulnerability, such as cognitive 
+impairment or frailty. This model suggests that as vulnerability increases, 
+delirium can be triggered by relatively minor acute stressors. Numerous 
+contributions to brain vulnerability have been suggested, such as structural 
+lesions, vascular changes, alterations in brain connectivity, 
+neuroinflammation, or neurodegeneration, and other age-related changes. 
+Evidence from EEG, evoked-potential studies, and neuroimaging studies in 
+delirium suggest focal dysfunction localized to the prefrontal cortex, 
+thalamus, basal ganglia, temporoparietal cortex, fusiform, and lingual gyri of 
+the nondominant cortex. Studies using computed tomography (CT) or 
+magnetic resonance imaging (MRI) have found lesions or structural 
+abnormalities in the brains of patients with delirium. Single-photon emission 
+computed tomography (SPECT) studies have shown that delirium is mostly 
+associated with decreased cerebral blood flow, but these results have been 
+variable. 
+
+
+Associated neurotransmitter abnormalities involve elevated brain 
+dopaminergic function, reduced cholinergic function, or a relative imbalance 
+of these systems. Serotonergic activity may interact to regulate or alter 
+activity of these other two systems, and serotonin levels may be either 
+increased or decreased. Extensive evidence supports the role of cholinergic 
+deficiency. Acetylcholine plays a key role in consciousness and attentional 
+processes. Given that delirium manifests as an acute confusional state often 
+with alterations of consciousness, it is likely to have a cholinergic basis. 
+Anticholinergic drugs can induce delirium in humans and animals, and serum 
+anticholinergic activity is increased in patients with delirium. Physostigmine 
+can reverse delirium associated with anticholinergic drugs, and 
+cholinesterase inhibitors appear to have some benefit even in cases of 
+delirium that are not induced by drugs. Neurotransmitter systems can also be 
+affected indirectly. For instance, in sepsis, the systemic inflammatory 
+response triggers a cascade of local (brain) neuroinflammation, leading to 
+endothelial activation, impaired blood flow, neuronal apoptosis, and 
+neurotransmitter dysfunction. Neuroinflammation can lead to microglial 
+overactivation, resulting in a neurotoxic response with further neuronal 
+
+
+
+injury. Animal studies have found that neurodegeneration causes priming of 
+astrocytes and microglia, resulting in a greater neuroinflammatory response, 
+as well as alterations in vasculature, including the blood-brain barrier, which 
+may render the brain more vulnerable to circulating inflammatory molecules. 
+The stress response associated with severe medical illness or surgery 
+involves sympathetic and immune system activation, including increased 
+activity of the hypothalamic-pituitary-adrenal axis with hypercortisolism, and 
+release of cerebral cytokines that alter neurotransmitter systems, the thyroid 
+axis, and modification of blood-brain barrier permeability. Age-related 
+changes in central neurotransmission, stress management, hormonal 
+regulation, and immune response may contribute to the increased 
+vulnerability of older persons to delirium. The description of delirium as 
+“acute brain failure”—involving multiple neural circuits, neurotransmitters, 
+and brain regions—suggests that understanding delirium may help to 
+elucidate the underlying mechanisms of brain functioning. 
+
+
+ETIOLOGY 
+
+
+The etiology of delirium is usually multifactorial. Among older persons, 
+delirium results from the interrelationship between patient vulnerability (ie, 
+predisposing factors) and the occurrence of noxious insults (ie, precipitating 
+factors). For example, patients who are highly vulnerable to delirium at 
+baseline (eg, such as patients with dementia or serious illness) can 
+experience delirium after exposure to otherwise mild insults, such as a single 
+dose of a sedative medication. Older patients with few predisposing factors 
+(low baseline vulnerability) are relatively resistant, with precipitation of 
+delirium only after exposure to multiple potentially noxious insults, such as 
+general anesthesia, major surgery, multiple psychoactive medications, 
+immobilization, and infection (Figure 58-1). Based on validated predictive 
+models for delirium, the effects of multiple risk factors appear to be 
+cumulative. Clinically, the importance of the multifactorial nature of delirium 
+is that removal or treatment of one risk factor alone often fails to resolve 
+delirium. Instead, addressing many or all of the predisposing and 
+precipitating factors for delirium is often required before the delirium 
+symptoms will improve. 
+
+
+
+FIGURE 58-1. 
+Multifactorialmodelfor delirium. 
+The 
+etiologyof deliriuminvolves 
+a 
+complex 
+interrelationshipbetweenthe 
+patient’s 
+underlyingvulnerabilityor predisposingfactors 
+(left 
+axis) 
+andprecipitatingfactors 
+or noxious 
+insults 
+(right 
+axis). 
+For example,a 
+patient 
+withhigh 
+vulnerability,suchas 
+withsevere 
+dementia,underlyingsevere 
+illness,or hearingor vision 
+impairment,might 
+developdeliriumwithexposure 
+toonlyone 
+dose 
+of a 
+sleepingmedication. 
+Conversely,a 
+patient 
+withlow 
+vulnerabilitywoulddevelopdeliriumonlywithexposure 
+tomany 
+noxious 
+insults,suchas 
+generalanesthesia 
+andmajor surgery,intensive 
+care 
+unit 
+(ICU) stay, 
+multiple 
+psychoactive 
+medications,andprolongedsleepdeprivation. 
+
+
+Predisposing Factors 
+
+
+Predisposing factors for delirium include preexisting cognitive impairment 
+or dementia, a history of delirium, advanced age (> 70 years), severe 
+underlying illness and multimorbidity, functional impairment, depression, 
+alcohol abuse, a history of stroke, hypertension or transient ischemic attack, 
+carotid artery disease and sensory impairments (vision or hearing) (Table 
+58-1). Preexisting cognitive impairment, including dementia, is one of the 
+most powerful and consistent risk factors for delirium demonstrated across 
+multiple studies in various settings, with patients with dementia having a 
+two- to fivefold increased risk for delirium. Up to two thirds of delirious 
+patients have underlying dementia. Nearly any chronic medical condition can 
+predispose a patient to delirium, ranging from diseases involving the central 
+nervous system to diseases outside the central nervous system, including 
+
+
+
+infectious, metabolic, cardiac, pulmonary, endocrine, or neoplastic 
+etiologies. Predictive risk models that identify predisposing factors in 
+populations, such as general medicine, intensive care, surgical patients 
+(cardiac and noncardiac), cancer patients, and nursing home residents, can 
+help identify patients at an increased risk of delirium. 
+
+
+TABLE 58-1■PREDISPOSING AND PRECIPITATING FACTORSFOR DELIRIUM FROM VALIDATED PREDICTIVE MODELS
+
+Precipitating Factors 
+
+
+Major precipitating factors identified in validated predictive models include 
+medication use (see section on “Drug Use and Delirium”), which are 
+associated with up to a fivefold increased risk of delirium, use of indwelling 
+bladder catheters, use of physical restraints, dehydration, malnutrition, 
+iatrogenic events, infections, metabolic and electrolyte derangements, 
+surgery, admissions that are urgent or involve trauma, extended ICU stays (> 
+10 days), and coma (see 
+Table 58-1). Decreased mobility is strongly 
+associated with delirium and concomitant functional decline. The use of 
+medical equipment and devices (eg, indwelling bladder catheters and 
+physical restraints) may further contribute to immobilization. Major 
+iatrogenic events occur in up to 40% of older hospitalized adults (three to 
+five times the risk when compared with adults younger than 65 years) and 
+double the risk for development of delirium. Examples include complications 
+related to diagnostic or therapeutic procedures, allergic reactions, and 
+bleeding caused by over-anticoagulation. Disorders of any major organ 
+system, particularly renal or hepatic failure, can precipitate delirium. Occult 
+respiratory failure has emerged as an increasing problem in older patients, 
+who often lack the typical signs and symptoms of dyspnea and tachypnea. In 
+older adults, acute myocardial infarction and congestive heart failure may 
+present with delirium or “failure to thrive” as the cardinal feature, and 
+minimal symptoms of angina or dyspnea. Occult infection is a particularly 
+noteworthy cause of delirium because older patients may not present with 
+leukocytosis or a typical febrile response. Metabolic and endocrinologic 
+disorders, such as hyper- or hyponatremia, hypercalcemia, acid-base 
+disorders, hypo- and hyperglycemia, and thyroid or adrenal disorders, may 
+also contribute to delirium. Precipitating factors for delirium in hospitalized 
+older patients that have been validated include use of physical restraints, 
+malnutrition, more than three medications added during the previous day (> 
+70% of these were psychoactive drugs), indwelling bladder catheter, and any 
+iatrogenic event. The presence of each of these independent factors confers a 
+two- to fourfold increased risk of delirium. The presence of multiple factors 
+has a cumulative effect, yet each risk factor is potentially modifiable. 
+
+
+Drug Use and Delirium 
+
+
+In 30% or more of delirium cases, use of one or more specific medications 
+contributes to its development. While medications often incite delirium, they 
+
+
+
+are also the most common remediable cause of delirium. The most common 
+culprit medications have psychoactive effects, such as sedative hypnotics, 
+anxiolytics, narcotics, and medications with anticholinergic activity (Table 
+58-2). In previous studies, use of any psychoactive medication was 
+associated with a fourfold increased risk of delirium; use of two or more 
+psychoactive medications was associated with a fivefold increased risk. 
+Sedative-hypnotic drugs are associated with a 3- to 12-fold increased risk of 
+delirium; narcotics with a threefold risk; and anticholinergic drugs with a 5to 
+12-fold risk. The incidence of delirium, similar to other adverse drug 
+events, increases in direct proportion to the number of medications 
+prescribed because of the effects of the medications themselves and the 
+increased risk of drug–drug and drug–disease interactions. Suboptimal 
+medication management, ranging from inappropriate use to overuse of 
+psychoactive medications, occurs commonly in older adults, suggesting that 
+many cases of delirium and related adverse drug events may be preventable. 
+
+
+TABLE 58-2■MEDICATIONS ASSOCIATED WITH INDUCINGOR WORSENING OF DELIRIUM (AMERICAN GERIATRICSSOCIETY BEERS CRITERIA, 2019)
+

@@ -1,0 +1,1157 @@
+Relationship Between Delirium and Dementia 
+
+
+Delirium and dementia frequently coexist, with dementia being a leading risk 
+factor for delirium and delirium resulting in worsened cognitive functioning. 
+The contribution of delirium to permanent cognitive impairment or dementia 
+is an area of active research, given the fact that after delirium, some patients 
+never recover to their baseline level of cognitive function. Delirium and 
+dementia may represent two ends along a spectrum of cognitive impairment 
+with “chronic delirium” and “reversible dementia” falling along a continuum. 
+Dementia is the leading risk factor for delirium, and fully two-thirds of cases 
+of delirium occur in patients with dementia. Studies have shown that delirium 
+and dementia are both associated with decreased cerebral metabolism, 
+cholinergic deficiency, inflammation and abnormal glucose metabolism, 
+reflecting their overlapping clinical, metabolic, and cellular mechanisms. 
+Delirium can alter the course of underlying dementia, with dramatic 
+worsening of the trajectory of cognitive decline, resulting in more rapid 
+progression of functional losses and worsened long-term outcomes including 
+hospitalization and mortality. Additionally, postoperative cognitive decline 
+is accelerated among patients with delirium. 
+
+
+PRESENTATION 
+
+
+Cardinal Features 
+
+
+Acute onset and inattention are the central features of delirium. Determining 
+the acuity of onset requires accurate knowledge of the patient’s prior 
+cognitive status and often entails obtaining historical information from 
+another close observer, such as a family member, caregiver, or nurse. With 
+delirium, the mental status changes typically occur over hours to days, in 
+contrast to the changes that occur with dementia, which present insidiously 
+over weeks to months. Another key feature is the fluctuating course of 
+delirium; symptoms tend to wax and wane in severity over a 24-hour period. 
+Lucid intervals are characteristic, and the reversibility of symptoms within a 
+short time can deceive even an experienced clinician. Inattention is 
+manifested as difficulty focusing, maintaining, and shifting attention or 
+concentration. With simple cognitive assessment, patients may display 
+difficulty with straightforward repetition tasks, digit spans, or recitation of 
+the months of the year backward. Delirious patients appear easily distracted, 
+experience difficulty with multistep commands, cannot follow the flow of a 
+
+
+
+conversation, and often perseverate with an answer to a previous question. 
+Additional major features include a disorganization of thought and altered 
+level of consciousness. Disorganized thoughts are a manifestation of 
+underlying cognitive or perceptual disturbances and can be recognized by 
+disjointed and incoherent speech or an unclear or illogical flow of ideas. 
+Clouding of consciousness is typically manifested by lethargy, with a 
+reduced awareness of the environment that may show diurnal variation. 
+Although not cardinal elements, other frequently associated features include 
+disorientation (more commonly to time and place than to self), cognitive 
+impairments (eg, memory and problem-solving deficits, dysnomia), 
+psychomotor agitation or retardation, perceptual disturbances (eg, 
+hallucinations, misperceptions, illusions), paranoid delusions, emotional 
+lability, and sleep-wake cycle disruption. 
+
+
+Classification of Delirium 
+
+
+The clinical presentation of delirium can take three main forms: hypoactive, 
+hyperactive, or mixed. The hypoactive form of delirium is characterized by 
+lethargy and reduced psychomotor functioning and is the more common form 
+in older patients. Hypoactive delirium often goes unrecognized and carries 
+an overall poorer prognosis. The reduced level of patient activity associated 
+with hypoactive delirium, often attributed to low mood or fatigue, may 
+contribute to its misdiagnosis or underrecognition. By contrast, the 
+hyperactive form of delirium presents with symptoms of agitation, increased 
+vigilance, and often concomitant hallucinations; its presentation rarely 
+remains unnoticed by caregivers or clinicians. Patients can fluctuate between 
+the hypoactive and hyperactive forms—the mixed type of delirium— 
+presenting a challenge in distinguishing the presentation from other psychotic 
+or mood disorders. Recognition of partial or subsyndromal forms of delirium 
+has brought attention to the persistence of symptoms among older patients, 
+particularly during the resolution stages of delirium. Partial forms of 
+delirium also adversely influence long-term clinical outcomes. 
+
+
+Prognosis 
+
+
+Delirium is an important independent determinant of prolonged length of 
+hospital stay, increased mortality, increased rates of nursing home placement, 
+and functional and cognitive decline. Delirium has long been thought to be a 
+reversible, transient condition; however, accumulating evidence brings this 
+
+
+
+into question. Delirium symptoms generally persist for a month or more; as 
+few as 20% of patients attain complete symptom resolution at 6-month 
+follow-up. Cognitive function is impacted for up to a year following 
+delirium, and patients who develop delirium are at increased risk for 
+development of dementia. The chronic detrimental effects are likely related 
+to the duration, severity, and underlying cause(s) of the delirium in addition 
+to the baseline vulnerability of the patient. 
+
+
+EVALUATION 
+
+
+There are numerous instruments for the identification of delirium. Each 
+delirium instrument has strengths and limitations, and the choice among them 
+depends on the goals for use. The most widely used is the CAM, of which the 
+four-item short form has been applied in over 10,000 studies to date and 
+translated into over 19 languages. The CAM has been adapted for use in 
+other settings, including the intensive care unit (CAM-ICU), nursing home 
+(NH-CAM), and emergency department (CAM-ED and B-CAM). The CAMS 
+derived from the CAM can be used to rate delirium severity and has 
+demonstrated predictive validity for relevant clinical outcomes. Designed for 
+clinicians with minimal training, several brief screening tools have been 
+validated in postsurgical, medical, emergency department, and postacute care 
+settings. For example, the Ultra-Brief CAM (UB-CAM) requires just 1 
+minute to complete and can identify delirium with high sensitivity and 
+specificity. Selected screening tools are presented inTable 58-3. These can 
+be used as an initial step in delirium detection and should be followed by a 
+comprehensive assessment. Additionally, family-informed tools can be 
+completed by health care professionals and/or families, yielding sensitivities 
+ranging from 67% to 90% and specificities ranging from 56% to 90% in 
+diverse populations. 
+
+
+TABLE 58-3■SELECTED DELIRIUM SCREENING TESTS
+
+The acute evaluation of suspected or confirmed delirium centers on three 
+main tasks that occur simultaneously: (1) establishing the diagnosis of 
+delirium; (2) determining the potential cause(s) and ruling out life-threatening 
+contributors; and (3) managing the symptoms while assuring patient safety. 
+Delirium is a clinical diagnosis, relying on astute observation at the bedside, 
+careful cognitive assessment, and history-taking from a knowledgeable 
+informant to establish a change from the patient’s baseline functioning. 
+Identifying the potentially multifactorial contributors to the delirium is of 
+paramount importance. Many of these factors are treatable, and if left 
+untreated, may result in substantial morbidity and mortality. Because the 
+potential contributors are myriad, the search requires a thorough medical 
+evaluation guided by clinical judgment. The challenge is enhanced by the 
+frequently nonspecific or atypical presentation of the underlying illness in 
+older persons. In fact, delirium is often the 
+only sign of life-threatening 
+illness, such as sepsis, pneumonia, or myocardial infarction in older persons. 
+
+
+History and Physical Examination 
+
+
+
+A thorough history and physical examination constitute the foundation of the 
+medical evaluation of suspected delirium. The first step in evaluation should 
+be to establish the diagnosis of delirium through careful cognitive assessment 
+and to determine the acuity of change from the patient’s baseline cognitive 
+state. Because cognitive impairment may easily be missed during routine 
+conversation, brief cognitive screening tests, such as the Mini-Cog test or the 
+UB-CAM assessment, should be used to rate the CAM. The degree of 
+attention should be further assessed with simple tests such as a digit span 
+(inattention indicated by an inability to repeat five digits forward or three 
+digits backward) or recitation of the months of the year backward. A targeted 
+history, focusing on baseline cognitive status and chronology of recent mental 
+status changes, should be elicited from a reliable informant. Historical data 
+including intercurrent illnesses, recent adjustments in medications, the 
+possibility of withdrawal from alcohol, other substances, or medications, 
+and pertinent environmental changes may elucidate precipitating factors of 
+delirium. 
+
+
+The physical examination should comprise detailed review focusing on 
+potential etiologic clues to an underlying or inciting disease process. Vital 
+sign assessment is important to identify fever, tachycardia, or decreased 
+oxygen saturation, each of which may point to specific disease processes. 
+Auscultatory examination may suggest pneumonia or pulmonary effusion. A 
+new cardiac murmur or dysrhythmia may suggest ischemia or congestive 
+heart failure. Gastrointestinal examination should focus on evidence of an 
+acute abdominal process, such as occult bleeding, perforated viscus, or 
+infection. Patients with delirium may also demonstrate nonspecific focal 
+findings on neurologic examination, such as asterixis or tremor. New focal 
+neurologic deficits should raise suspicion of an acute cerebrovascular event 
+or subdural hematoma. In many older patients and especially those with 
+cognitive impairment, delirium may be the initial manifestation of a serious 
+new disease process. Attention to early localizing signs on serial physical 
+examinations is paramount. 
+
+
+A complete medication review, including over-the-counter medications, 
+is critical. Any medications with known psychoactive effects should be 
+discontinued or minimized whenever possible. Medications with potential 
+for withdrawal should be tapered carefully. Because of pharmacodynamic 
+and pharmacokinetic changes in aging adults, these medications may cause 
+
+
+
+deleterious psychoactive effects even when prescribed at customary doses 
+and with serum drug levels that are within the “therapeutic range.” 
+
+
+Laboratory Tests and Imaging 
+
+
+Laboratory evaluation should be guided by clinical judgment and take into 
+account specific patient characteristics and historical data. A thorough 
+history and physical examination, medication review, focused laboratory 
+testing (eg, complete blood count, chemistries, glucose, renal and liver 
+function tests, urinalysis), and search for occult infection should help to 
+identify the majority of potential contributors to the delirium. Additional 
+laboratory testing such as thyroid function tests, B12 level, cortisol level, 
+
+
+drug levels or toxicology screen, syphilis serologies, and ammonia level 
+should be based on the specific clinical presentation. Further diagnostic 
+work-up with an electrocardiogram, chest radiograph, and/or arterial blood 
+gas test may be appropriate for patients with pulmonary or cardiac 
+conditions. The indications for cerebrospinal fluid examination, brain 
+imaging, or EEG remain controversial. Their overall diagnostic yield is low, 
+and these procedures are probably indicated in fewer than 5% to 10% of 
+delirium cases. Lumbar puncture with cerebrospinal fluid examination is 
+indicated for the febrile delirious patient when meningitis or encephalitis is 
+suspected. Brain imaging (such as CT or MRI) should be reserved for cases 
+with new focal neurologic signs, with history or signs of head trauma, or 
+without another identifiable cause of the delirium. Of note, some neurologic 
+symptoms are associated with delirium, including tremor and asterixis. EEG, 
+which has a false-negative rate of 17% and a false-positive rate of 22% for 
+distinguishing between delirious and nondelirious patients, plays a limited 
+role and is most commonly employed to detect subclinical seizure disorders 
+and to differentiate delirium from nonorganic psychiatric conditions. 
+
+
+Differential Diagnosis 
+
+
+Distinguishing a long-standing confusional state (dementia) from delirium 
+alone, or from delirium superimposed on dementia, is an important, but often 
+difficult, diagnostic step. These two conditions can be differentiated by the 
+acute onset of symptoms in delirium, with dementia presenting much more 
+insidiously and by the impaired attention and altered level of consciousness 
+associated with delirium. 
+
+
+
+The differential diagnosis of delirium can be extensive and includes other 
+psychiatric conditions such as depression and nonorganic psychiatric 
+disorders (Table 58-4). Although perceptual disturbances, such as illusions 
+and hallucinations, can occur with delirium in about 15% of cases, 
+recognition of the key features of acute onset, inattention, altered level of 
+consciousness, and global cognitive impairment will enhance the 
+identification of delirium. Differentiating among diagnoses is critical 
+because delirium carries a more serious prognosis without proper evaluation 
+and management. Treatment for certain conditions such as depression or 
+affective disorders may involve use of drugs with anticholinergic activity, 
+which could exacerbate an unrecognized case of delirium. At times, working 
+through the differential diagnosis can be challenging, and the diagnosis of 
+delirium may remain uncertain. Because of the potentially life-threatening 
+nature of delirium, however, it is prudent to manage the patient as having 
+delirium and search for underlying precipitants until further information can 
+be obtained. 
+
+
+TABLE 58-4■DIFFERENTIAL DIAGNOSIS OF ALTEREDMENTAL STATUS
+Algorithm for the Evaluation of Altered Mental Status 
+
+
+
+Figure 58-2 presents an algorithm for the evaluation of altered mental status 
+in the older patient. The initial steps center on establishing the patient’s 
+baseline cognitive functioning and the onset and timing of any cognitive 
+changes. Chronic impairments, representing changes that occur over months 
+to years, are most likely attributable to dementia, which should be evaluated 
+accordingly (see 
+Chapter 59). Acute alterations, representing abrupt 
+deteriorations in mental status, occur over hours to weeks and may be 
+superimposed on underlying dementia. They should be further evaluated with 
+cognitive testing to establish the presence of delirium. In the absence of 
+notable delirium features (see “Presentation” earlier in this chapter), 
+subsequent evaluation should focus on the possibility of major depression, 
+acute psychotic disorder, or other psychiatric disorders (see 
+Chapters 65, 60, 
+and 66). 
+
+
+
+FIGURE 58-2. 
+Flowchart 
+for evaluationof suspecteddeliriuminanolder person. 
+ABG,arterial 
+
+
+bloodgas; 
+B12,cyanocobalaminor vitaminB12 
+level; 
+EEG,electroencephalography; 
+IM, 
+intramuscular; 
+LP,lumbar puncture; 
+PO,bymouth; 
+TFTs,thyroidfunctiontests 
+(eg,T4,thyroid 
+index,thyroid-stimulatinghormone); 
+UB-CAM,Ultra 
+Brief ConfusionAssessment 
+Method. 
+
+
+PREVENTION 
+
+
+Primary prevention—preventing delirium before it develops—is the most 
+effective strategy for reducing delirium and its associated adverse outcomes. 
+Table 58-5 describes well-documented delirium risk factors and preventive 
+interventions to address each risk factor. A controlled clinical trial 
+demonstrated the effectiveness of a delirium prevention strategy targeted 
+toward these risk factors, which were selected based on their clinical 
+relevance and the degree to which they could be modified by employing 
+
+
+
+practical and feasible interventions. Compared with standard care, 
+implementation of these preventive interventions resulted in a 40% risk 
+reduction for delirium in hospitalized older patients. 
+
+
+TABLE 58-5■DELIRIUM RISK FACTORS AND TESTEDPREVENTATIVE INTERVENTIONS
+
+The Hospital Elder Life Program (HELP; now AGS CoCare HELP at 
+https://help.agscocare.org/) represents an innovative strategy of hospital care 
+for older patients, designed to incorporate the tested delirium prevention 
+strategies and to improve overall quality of hospital care. Programs such as 
+
+
+
+HELP underscore the importance of an interdisciplinary team’s contributions 
+to the prevention of delirium. For example, trained volunteers and family 
+members can play roles in daily orientation, therapeutic recreation activities, 
+and feeding assistance. Physical rehabilitation experts and nurses can assist 
+with mobilization and the incorporation of daily exercises to prevent 
+functional decline. Dietitians can help to maximize appropriate caloric intake 
+and oral hydration in acutely ill patients. Consultant pharmacists, chaplains, 
+and social workers also may provide specialized expertise to address issues 
+pertinent to individuals at risk for delirium. 
+
+
+At least 14 studies have examined primary prevention with 
+nonpharmacologic multicomponent approaches to delirium in controlled 
+trials with prospective sampling frameworks and validated delirium 
+assessments. These studies applied multifactorial interventions or 
+educational strategies targeted toward health care professionals, staff, and 
+families, and demonstrated significant reductions in delirium rates, inhospital 
+falls, health care–associated costs, and/or duration of delirium. 
+Proactive geriatric consultation has been demonstrated to reduce the risk of 
+delirium post hip fracture by 40% in a randomized controlled trial. Another 
+trial found that home rehabilitation after acute hospitalization of older adults 
+was associated with lower risk of delirium and greater patient satisfaction, 
+when compared with an institutional setting. In all, trials suggest that up to 
+50% of cases of delirium may be preventable and that prevention strategies 
+should begin early during hospitalization. 
+
+
+Preventive efforts for delirium will require system-wide changes and 
+large-scale shifts in local and national policies and approaches to care. 
+Recommended changes include routine cognitive and functional assessments 
+on admission of all older patients, beginning in the emergency department 
+setting; monitoring mental status as a “vital sign”; education of physicians 
+and nurses to improve recognition and heighten awareness of the clinical 
+implications; enhanced geriatric physician and nursing expertise; incentives 
+to change practice patterns that lead to delirium (eg, immobilization, use of 
+deliriogenic medications, bladder catheters, and physical restraints); and 
+creation of systems that enhance high-quality geriatric care (eg, geriatric 
+expertise, medication review, family involvement, case management, clinical 
+pathways, and quality monitoring for delirium). 
+
+
+MANAGEMENT 
+
+
+
+Overview 
+
+
+The recommended management approach for all delirious patients begins 
+with nonpharmacologic strategies, which usually result in successful 
+symptom amelioration. In selected cases, such strategies must be 
+supplemented with a pharmacologic approach, reserved for patients in whom 
+delirium symptoms would result in interruption of needed medical therapies 
+(eg, mechanical ventilation, central lines) or may endanger the safety of the 
+patient or other persons. However, prescribing any drug requires balancing 
+the benefits of delirium management against the potential for adverse 
+medication effects because sedative drugs may prolong delirium and worsen 
+clinical outcomes. The clinical team, family, and caregivers should 
+understand that the choice of almost any medication may further cloud the 
+patient’s mental status, prolong delirium symptoms, and obscure efforts to 
+monitor the course of the mental status change. Any drug should be initiated 
+at the lowest starting dose for the shortest time possible. 
+
+
+Nonpharmacologic Management 
+
+
+Nonpharmacologic approaches are the mainstays of prevention and treatment 
+for every delirious patient. These include strategies for reorientation and 
+behavioral intervention, such as ensuring the presence of family members, 
+use of sitters, and transferring a disruptive patient to a private room or closer 
+to the nurse’s station for increased supervision. Orienting influences such as 
+calendars, clocks, and the day’s schedule should be prominently displayed, 
+along with familiar personal objects from the patient’s home environment 
+(eg, photographs and religious artifacts). Personal contact and 
+communication are critical to reinforce patient awareness and encourage 
+patient participation as much as possible. Communication should incorporate 
+repeated reorientation strategies, clear instructions, and frequent eye contact. 
+Correction of sensory impairments (ie, vision and hearing) should be 
+maximized as applicable for individual patients by encouraging the use of 
+eyeglasses and hearing aids during the hospital stay. Mobility and 
+independence should be promoted; physical restraints should be avoided 
+because they lead to decreased mobility, increased agitation, and greater risk 
+of injury and worsening delirium. Patient involvement in self-care and 
+decision making should also be encouraged. Other environmental 
+interventions include limiting room and staff changes and providing a quiet 
+patient care setting with low-level lighting at night. An environment with 
+
+
+
+decreased noise allowing for an uninterrupted period for sleep at night is of 
+crucial importance in the management of delirium. This may require unitwide 
+changes in the coordination of nursing and medical procedures, 
+including medication dispensing, vital sign recording, and administration of 
+intravenous medications and other treatments. Hospital-wide changes may be 
+needed to ensure a low level of noise at night, including minimizing hallway 
+noise, overhead paging, and staff conversations. Family involvement in 
+nonpharmacologic management of delirium is critical and has been shown to 
+reduce length of stay and ameliorate anxiety in family members. 
+
+
+Nonpharmacologic Sleep Protocol 
+
+
+Nonpharmacologic approaches for relaxation and sleep can be effective for 
+management of agitation in delirious patients and for prevention of delirium 
+through minimization of psychoactive medications. The nonpharmacologic 
+sleep protocol includes three components: (1) a glass of warm milk or herbal 
+tea, (2) relaxation music or tapes, and (3) back massage. This protocol was 
+demonstrated to be feasible and effective, reducing use of sleeping 
+medications from 54% to 31% in a hospital environment. 
+
+
+Antipsychotics 
+
+
+As a last resort, antipsychotics are the preferred agents for pharmacologic 
+treatment of delirium. Haloperidol is the agent with the longest track record, 
+although its use may be complicated by extrapyramidal side effects and acute 
+dystonias. Many trials examining the efficacy of haloperidol and the atypical 
+antipsychotics (such as quetiapine, risperidone, and olanzapine) have been 
+low quality and/or inconclusive, with no effect on delirium duration, 
+severity, relief of symptoms, length of stay or mortality. A recent placebocontrolled, 
+randomized trial of haloperidol and ziprasidone in the intensive 
+care setting similarly failed to show a benefit for these medications. 
+Comparisons across antipsychotics have not found superior efficacy of any 
+one agent. Additionally, there is evidence that antipsychotic drugs may 
+prolong delirium and result in poor clinical outcomes. Moreover, official 
+warnings have been issued regarding the increased mortality associated with 
+the use of haloperidol and atypical antipsychotics in patients with dementia. 
+Use of antipsychotics should be avoided in patients with Parkinson disease 
+and Lewy body dementia. 
+
+
+
+If proceeding with antipsychotic administration, the intravenous route 
+should be reserved for monitored settings due to the risk of torsades and 
+sudden death. Parenteral administration is required in cases where rapid 
+onset of action is required with short duration of action, whereas oral or 
+intramuscular use is associated with a more optimal duration of action. The 
+recommended starting dose is 0.25 mg of haloperidol orally or parenterally. 
+The dose may be repeated every 30 minutes after vital signs have been 
+rechecked. The clinical end point should be an awake but manageable 
+patient, a goal that can be achieved by following the geriatric prescribing 
+principle, “start low and go slow.” Most older patients naïve to prior 
+treatment with an antipsychotic should require a total loading dose of no 
+more than 2.5 mg of haloperidol. A subsequent maintenance dose consisting 
+of one-half of the loading dose should be administered in divided doses over 
+the next 24 hours, with doses tapered over the ensuing 48 hours as the 
+agitation resolves. Alternatively, an atypical antipsychotic may be 
+considered at a low starting dose: quetiapine (starting dose, 12.5 mg; 24-h 
+maximum, 25 mg), olanzapine (starting dose, 2.5 mg; 24-h maximum, 10 mg), 
+or risperidone (0.25–0.5 mg; 24-h maximum, 1.5 mg). Patients should be 
+reevaluated continually to assess for ongoing need and tapered off as soon as 
+possible. 
+
+
+Other Pharmacologic Approaches 
+
+
+Benzodiazepines (eg, lorazepam) are not recommended as first-line agents in 
+the treatment of delirium because of their propensity to cause oversedation 
+and to exacerbate acute mental status changes. However, they remain the 
+treatment of choice for delirium caused by seizures and alcohol- and 
+medication-related withdrawal syndromes. While other drugs have been 
+advocated for use in treatment of delirium, evaluation of their use has 
+resulted in discrepant findings, and there is no consensus recommendation for 
+their general use. Trials of the sedative dexmedetomidine in ventilated ICU 
+patients found a reduction in delirium duration and length of ICU stay as well 
+as better effectiveness and safety in haloperidol-resistant patients. Clonidine, 
+an α2-agonist, has been shown to be safe, though no effect was detected on 
+delirium. In randomized trials of melatonin and the melatonin receptor 
+agonist ramelteon, the results have been mixed to date. Overall, data does not 
+support the use of pharmacologic management of delirium, although the 
+consensus in the field is for a limited role of medications for the treatment of 
+
+
+
+intractable distress and agitation in which nonpharmacologic strategies have 
+failed. 
+
+
+SPECIAL ISSUES 
+
+
+COVID-19 
+
+
+The arrival of the SARS-CoV-2 virus and associated COVID-19 in early 
+2020 has culminated in a global health crisis. Although COVID-19 typically 
+manifests as an influenza-like respiratory illness, early reports of neurologic 
+symptoms included altered mental status. In one study of older adults 
+presenting to the emergency department with COVID-19, delirium was the 
+sixth most common presenting symptom, and in some cases occurred without 
+the typical symptoms of COVID-19. Rates of delirium during hospitalization 
+with COVID-19 range from 25% to 84%. Delirium may be more severe or 
+prolonged due to social isolation and use of personal protective equipment, 
+resulting in poor communication, reduced social interactions, limited 
+reorienting of patients, and prolonged need for mechanical ventilation, with 
+increased immobilization, depth of sedation, or use of second-line 
+medications due to drug shortages. Nonpharmacologic interventions for 
+delirium prevention have been adapted for COVID-19 and are available 
+online athttps://help.agscocare.org/chapterabstract/
+chapter/H00107/H00107_PART001_002. 
+
+
+Patient Preference and Decision Making 
+
+
+Given acute fluctuations in attention and decision-making capacity, delirium 
+presents formidable challenges to the ethical care of affected patients (see 
+Chapters 7 and 26). Cognitive assessments in patients with suspected 
+delirium help to ensure that patients can be involved in decision making 
+whenever possible and that appropriate surrogate decision makers are 
+involved in representing a patient’s wishes and understanding the risks and 
+benefits of procedures and treatments. Because the patient may exhibit 
+periods of lucidity in delirium, there may be times during which the decisionmaking 
+and informed consent process can and must involve the patient. The 
+clinician should be cognizant of ongoing subclinical manifestations of 
+delirium, which may be important for both the long-term management and 
+decision-making capacity of the patient. 
+
+
+Nursing Home Setting 
+
+
+
+For the postacute population receiving short-term rehabilitative care, 
+persistent delirium after an acute hospitalization is a major concern. Prior 
+studies demonstrated that 16% of admissions to postacute care met full CAM 
+criteria for delirium, while another 50% demonstrated signs of subsyndromal 
+delirium. Patients with delirium on admission to postacute care experience 
+more complications such as falls, higher rehospitalization rates, and higher 
+mortality. Of those admitted to postacute care with delirium, over 50% are 
+still delirious 1 month later. Persistence of delirium prevents functional 
+recovery in the postacute setting; only those patients whose delirium cleared 
+within 2 weeks of admission recovered to their prehospitalization functional 
+status. Persistent delirium is also associated with higher mortality. 
+
+
+The long-term care population represents a high-risk group for delirium, 
+with a high prevalence of dementia and functional impairments. Incident 
+delirium is common in this population, frequently heralding the onset of an 
+acute illness that results in hospitalization and/or death. Nursing staffing 
+ratios, high turnover, competing concerns, and the high prevalence of 
+dementia make identification and prevention of delirium challenging in this 
+setting. Nonetheless, these patients represent among the most vulnerable of 
+older adults, and further attention to delirium in this setting is warranted. 
+Research in long-term care settings is challenging, and results are mixed in 
+this area. A recent trial involving nonpharmacologic delirium prevention 
+strategies in the nursing home setting did not prevent delirium or reduce 
+delirium symptoms, with greater than expected improvement in both 
+intervention and usual care groups. This finding underscores the need for 
+further research into effective delirium prevention strategies in this setting. 
+
+
+Palliative and End-of-Life Care 
+
+
+Because delirium occurs in more than 80% of patients at the end of life, it is 
+considered nearly inevitable in the terminal stages by most hospice care 
+providers and may serve as a marker of approaching death. Establishing 
+goals of care with the patient and family is a crucial step, including 
+discussions about the potential causes of the delirium, intensity of medical 
+evaluations considered appropriate, and the potential trade-off between 
+alertness and adequate control of pain and agitation. Some patients may wish 
+to preserve their ability to communicate as long as possible, while others 
+may focus on comfort perhaps at the expense of alertness. Physicians must be 
+cognizant that even in the terminal phase, many causes of delirium are 
+
+
+
+potentially reversible, and may be amenable to interventions (eg, medication 
+adjustments, treatment of dehydration, hypoglycemia, or hypoxia) that may 
+improve comfort and quality of life. However, the burdens of evaluation or 
+treatment (eg, reduction in narcotic dose) may not be consistent with the 
+goals for care. In all cases, symptom management should begin immediately, 
+while evaluation is underway. Nonpharmacologic approaches should be 
+instituted in all patients, with pharmacologic approaches for selected cases. 
+Haloperidol remains the first-line therapy for delirium in terminally ill 
+patients, although a recent randomized controlled trial did not support its use. 
+In end-of-life care, sedation may be indicated as an additional therapy for 
+management of severe agitated delirium in the terminally ill patient, which 
+can cause considerable distress for the patient and family. Because sedation 
+poses the risks of decreased meaningful interaction with family, increased 
+confusion, and respiratory depression, this choice should be made in 
+conjunction with the family according to the goals of care. If sedation is 
+indicated, an agent that is short acting and easily titrated to effect is 
+recommended. Lorazepam (starting dose 0.5–1.0 mg PO, IV, or SQ) is the 
+recommended agent of choice. 
+
+
+FURTHERREADING
+American Geriatrics Society 2019 Beers Criteria Update Expert Panel. 
+American Geriatrics Society 2019 updated Beers criteria for potentially 
+inappropriate medication use in older adults. J Am Geriatr Soc. 
+2019;67;674–694. 
+
+
+American Psychiatric Association. Diagnostic and Statistical Manual of 
+Mental Disorders. 5th ed. Washington, DC: American Psychiatric 
+Association; 2013. 
+
+
+Fong TG, Davis D, Growdon ME, et al. The interface of delirium and 
+dementia in older persons. Lancet Neurol. 2015;14:823–832. 
+
+
+Fong TG, Jones RN, Marcantonio ER, et al. Adverse outcomes after 
+hospitalization and delirium in persons with Alzheimer disease. Ann 
+Intern Med. 2012;156:848–856. 
+
+
+Girard TD, Exline MC, Carson SS, et al. Haloperidol and ziprasidone for 
+treatment of delirium in critical illness. N Engl J Med. 2018;379:2506– 
+2516. 
+
+
+
+Hshieh TT, Yue J, Oh E, et al. Effectiveness of multi-component nonpharmacologic 
+delirium interventions: a systematic review and metaanalysis. 
+JAMA Intern Med. 2015;175:512–520. 
+
+
+Inouye SK, Bogardus ST Jr, Charpentier PA, et al. A clinical trial of a 
+multicomponent intervention to prevent delirium in hospitalized older 
+patients. N Engl J Med. 1999;340:669–676. 
+
+
+Inouye SK, Charpentier PA. Precipitating factors for delirium in hospitalized 
+elderly persons: predictive model and inter-relationship with baseline 
+vulnerability. JAMA. 1996;275:852–857. 
+
+
+Inouye SK, Marcantonio ER, Kosar CM, et al. The short- and long-term 
+relationship between delirium and cognitive trajectory in older surgical 
+patients. Alzheimers Dement J Alzheimers Assoc. 2016;12:766–775. 
+
+
+Inouye SK, van Dyck CH, Alessi CA, et al. Clarifying confusion: the 
+confusion assessment method. A new method for detection of delirium. 
+Ann Intern Med. 1990;113: 941–948. 
+
+
+Inouye SK, Westendorp RGJ, Saczynski J. Delirium in elderly people. 
+Lancet. 2014;383:911–922. 
+
+
+Leslie DL, Marcantonio ER, Zhang Y, et al. One-year health care costs 
+associated with delirium in the elderly population. Arch Intern Med. 
+2008;168:27–32. 
+
+
+Marcantonio ER. Delirium in hospitalized older adults. N Engl J Med. 
+2017;377:1456–1466. 
+
+
+Marcantonio ER, Flacker JM, Wright RJ, et al. Reducing delirium after hip 
+fracture: a randomized trial. J Am Geriatr Soc. 2001;49:516–522. 
+
+
+Marcantonio ER, Goldman L, Mangione CM, et al. A clinical prediction rule 
+for delirium after elective non-cardiac surgery. JAMA. 1994;271:134– 
+139. 
+
+
+Motyl CM, Ngo L, Zhou W, et al. Comparative accuracy and efficiency of 
+four delirium screening protocols. J Am Geriatr Soc. 2020;68:2572– 
+2578. 
+
+
+Oh ES, Fong TG, Hshieh TT, Inouye SK. Delirium in older persons: 
+advances in diagnosis and treatment (systematic review). JAMA. 
+2017;318:1161–1174. 
+
+
+Oh ES, Needham DM, Nikooie R, et al. Antipsychotics for preventing 
+delirium in hospitalized adults: a systematic review. Ann Intern Med. 
+2019;171:474–484. 
+
+
+
+O’Mahony R, Murthy L, Akunne A, Young J. Synopsis of the National 
+Institute for Health and Clinical Excellence guideline for prevention of 
+delirium. Ann Intern Med. 2011;154:746–751. 
+
+
+Saczynski JS, Marcantonio ER, Quach L, et al. Cognitive trajectories after 
+post-operative delirium. N Engl J Med. 2012;367:30–39. 
+
+
+Wilson JE, Mart MF, Cunningham C, et al. Delirium. Nat Rev Dis Primer. 
+2020;6:1–26. 
+
+
+
+Chapter 
+
+
+DementiaIncludingAlzheimerDisease 
+
+
+Cynthia M. 
+Carlsson, 
+Nathaniel 
+A. 
+Chin, 
+Carey 
+E. 
+Gleason, 
+Luigi 
+Puglielli, 
+Sanjay 
+Asthana 
+
+
+Alzheimer disease (AD) is the most common neurodegenerative disorder 
+affecting older adults, projected to affect more than 13 million Americans 
+and 115 million individuals worldwide by 2050. Compared to projections in 
+high-income countries, the number of individuals with AD in low- and 
+middle-income nations is increasing at an even greater rate. The disease is 
+characterized by diffuse functional and structural abnormalities in the brain 
+that lead to progressive cognitive and behavioral deficits and functional 
+decline. AD is associated with significant morbidity and mortality and is 
+currently the sixth most common cause of death in the United States. The 
+physical, psychological, functional, and socioeconomic impact of AD 
+substantially affects the well-being and quality of life of patients and their 
+caregivers. Caring for patients with AD places heavy financial burden on 
+patients, families, communities, and the health care system at large. In the 
+United States in 2020, the average lifetime cost of caring for a person with 
+AD exceeded $350,000. The total cost of caring for Americans with AD 
+exceeds $355 billion annually. Evidence is beginning to emerge on the 
+economic impact of dementia care in low- and middle-income countries as 
+most of the costs in these nations are related to informal care. 
+
+
+Recognizing the enormity of the burden of AD, international 
+collaborations between clinicians, researchers, policy makers, patient 
+advocacy groups, the media, and many others have increased public 
+awareness of the global impact of the disease and have laid the foundation 
+for the development of effective preventive and therapeutic strategies as well 
+as improvements in care management for patients with AD. An example of 
+
+
+
+such a coordinated effort is the 2011 United States National Alzheimer’s 
+Project Act (NAPA), a law designed to create and maintain an integrated 
+national plan to address AD. The plan encompasses federal coordination of 
+AD research and services and aims to improve early diagnosis and 
+coordination of care, accelerate development of effective treatments, 
+promote health equity in AD care among ethnic and racial minority 
+populations, and stimulate coordination with international groups to address 
+AD globally. Such national and international collaborations will help 
+accelerate optimal diagnosis and care of patients at risk for AD and related 
+dementias. Another example is the public health prevention effort underway 
+to address 12 recognized modifiable risk factors that contribute to dementia 
+and recommend policy interventions to mitigate these risks. In the United 
+States, this is the focus of the Alzheimer’s Association’s Centers for Disease 
+Control and Prevention: Building Our Largest Dementia (BOLD) Public 
+Health Center of Excellence on Dementia Risk Reduction supported by the 
+BOLD Infrastructure for Alzheimer’s Act—PL115-406. 
+
+
+LearningObjectives
+■ 
+Describe 
+the 
+currentdiagnostic 
+criteria 
+for dementia,Alzheimer disease 
+(AD),andmildcognitive 
+impairment 
+(MCI),andhow 
+these 
+conditions 
+differ fromnormalcognitive 
+aging. 
+■ 
+Understandthe 
+effects 
+of age 
+andother genetic 
+andnongenetic 
+riskfactors 
+onriskof developing 
+AD. 
+■ 
+Identifykeyneuropathologic 
+features 
+andmechanistic 
+pathways 
+associatedwithAD. 
+■ 
+Recognize 
+commonreversible 
+causes 
+of cognitive 
+dysfunction. 
+■ 
+Describe 
+aneffective 
+dementia 
+care 
+managementplanacross 
+care 
+settings 
+andstages 
+of disease, 
+integratinguse 
+of pharmacologic 
+andnonpharmacologic 
+interventions,education,andcommunity 
+resources. 
+KeyClinicalPoints
+1. 
+AD is the most common neurodegenerative disorder affecting 
+older adults with prevalence rates increasing with advancing age. 
+2. 
+While aging is the most established risk factor for late-onset AD, 
+various other genetic, lifestyle, and environmental factors also 
+influence dementia risk. 
+
+3. 
+The diagnostic evaluation for dementia, AD, and MCI depends 
+heavily on a careful assessment of an individual’s change in 
+functional status, a structured cognitive assessment, a thorough 
+clinical examination, and exclusion of other competing causes of 
+cognitive decline. 
+4. 
+There are currently no proven preventive or disease-modifying 
+therapies for AD; however, aducanumab is the first FDAapproved 
+medication that reduces amyloid burden in the brain, 
+but without significant improvement in cognition. The current 
+standard-of-care management plans integrate use of 
+pharmacologic therapies to delay symptom progression; 
+nonpharmacologic strategies to optimize function, behavior, and 
+safety; and education and support for patients and their care 
+partners. 
+5. 
+Advanced care planning prior to loss of decisional capacity is of 
+critical importance in developing patient-centered goals of care 
+in persons with cognitive impairment. 
+DEFINITION 
+
+
+In defining AD features, it is widely recognized that the clinical cognitive 
+and behavioral signs and symptoms do not always correlate with the degree 
+of AD neuropathologic changes noted in the brain. The discrepancy between 
+the neuropathologic changes and the individual clinical expression of disease 
+is likely related to additional unidentified physiologic, metabolic, or genetic 
+factors that either accelerate or slow cognitive decline. For example, some 
+older adults with normal cognitive function just prior to death have been 
+found to have significant AD neuropathology on autopsy. These individuals 
+may have unrecognized neuroprotective factors that help preserve cognitive 
+function despite notable neuropathologic changes. Thus, in order to 
+disentangle the clinical syndrome from the neuropathologic changes, the 
+current AD core clinical criteria are distinct from the AD neuropathologic 
+guidelines, yet encourage clinicians and researchers to postulate the most 
+likely neuropathology underlying the clinical presentation of disease. 
+
+
+
+In 2011, the National Institute on Aging and the Alzheimer’s Association 
+(NIA-AA) released cosponsored revised clinical diagnostic guidelines for 
+dementia, dementia due to AD, MCI, and a theoretical framework for 
+defining the preclinical stages of AD. Core clinical diagnostic criteria for 
+dementia, AD, and MCI were designed for use in all clinical settings and are 
+summarized inTables 59-1 and 59-2. In 2013, the American Psychiatric 
+Association published the 
+Diagnostic and Statistical Manual of Mental 
+Disorders, Fifth Edition (DSM-5). Within this edition, the term “dementia” 
+was replaced with “major neurocognitive disorder” and the term “mild 
+cognitive impairment” with “mild neurocognitive disorder.” While the DSM5 
+and NIA-AA terminologies differ, the diagnostic criteria for major 
+neurocognitive disorder and dementia as well as those for mild 
+neurocognitive disorder and MCI are nearly identical (see 
+Tables 59-1 and 
+59-2) and, thus, in most circumstances are interchangeable. For simplicity, 
+this chapter uses the terms “dementia” and “MCI.” 
+
+
+TABLE 59-1■NIA-AA CORE CLINICAL DIAGNOSTIC CRITERIAFOR ALL-CAUSE DEMENTIA AND DEMENTIA DUE TOALZHEIMER DISEASE
+
+EPIDEMIOLOGY 
+
+
+AD is the most common cause of dementia in older adults, currently affecting 
+more than 6 million Americans. Worldwide more than 44 million individuals 
+currently have AD or a related dementia. Unless effective preventive 
+strategies are identified, it is anticipated that the prevalence of AD will 
+double every 20 years. The United Nations predicts that the major rate of 
+increase in the prevalence of AD will likely occur in developing countries 
+that may not possess the essential resources, public health support system, or 
+medical expertise to care for patients with AD. There is clear evidence that a 
+
+
+
+number of risk factors significantly enhance the overall risk for developing 
+AD. These risk factors relate to both genetic and nongenetic markers and are 
+discussed below. 
+
+
+Aging 
+
+
+Age is the single most important and validated risk factor for AD. 
+Epidemiologic studies indicate that the incidence and prevalence of AD both 
+increase with age. Based on data from the 2010 US Census, the prevalence of 
+AD was approximately 3% among adults between the ages of 65 to 74, 17% 
+in persons aged 75 to 84, and 32% in individuals age 85 and older. With the 
+average human lifespan increasing, the prevalence of AD is expected to 
+accelerate at an even greater rate in coming decades. Although not clearly 
+understood, converging research findings provide clues concerning the 
+potential molecular pathway(s) underlying the association between aging and 
+AD. Increases in the pathologic hallmarks of AD, notably amyloid plaques 
+and neurofibrillary tangles, have been noted in the brains of older adults. 
+
+
+Age-related changes in molecular pathways involving insulin-like growth 
+factor 1 receptor (IGF1-R), neurotrophin signaling, β-site amyloid precursor 
+protein cleaving enzyme 1 (BACE1), and amyloid precursor protein (APP) 
+metabolism may account for some of the increase in incidence and 
+prevalence of AD with aging. Additionally, aging and IGF1-R signaling are 
+both associated with cerebrovascular dysfunction, which may play a key role 
+in the development of AD. An increased exposure time to age-dependent 
+vascular risk factors or an interaction between aging and vascular risk 
+factors may in part account for the effects of aging on the pathobiology of 
+AD. 
+
+
+Apolipoprotein E Genotype 
+
+
+Late-onset AD is the most common form of the disorder, accounting for 
+greater than 95% of all AD cases. Although some cases of younger-onset AD 
+have strong links to the genes coding for 
+APP and presenilin 1 (PSEN1) and 
+2 (PSEN2) proteins, many cases of late-onset AD are seen in individuals 
+without any clear genetic predisposition. A common polymorphism in the 
+apolipoprotein E (APOE) gene is the major determinant of risk in families 
+with late-onset AD. Of the three allelic forms (ε2, ε3, and ε4), AD risk is 
+increased fourfold in individuals with at least one 
+ε4 allele and 12-fold in 
+persons with two copies of the 
+ε4 allele. While 
+ε4 genotype modifies an 
+
+
+
+individual’s risk of the disease, by itself it is neither necessary nor sufficient 
+for the development of AD. In the Framingham study, 55% ofε4 homozygote 
+carriers, 27% ofε4 heterozygote carriers, and 9% of noncarriers developed 
+AD by age 85. APOE ε4 genotype may contribute to AD by influencing 
+processes related to the development of AD, including altering the rate of 
+production, clearance, or aggregation of amyloid β-peptide and/or 
+influencing cerebral cholesterol metabolism and inflammation. 
+
+
+Vascular Risk Factors 
+
+
+Midlife vascular risk factors, including hypercholesterolemia, hypertension, 
+diabetes mellitus, metabolic syndrome, obesity, and physical inactivity, have 
+all been associated with a greater risk of developing AD in later life. High 
+midlife total cholesterol and blood pressure levels are associated with a 
+two- to nearly threefold increased risk of developing AD decades later and 
+may convey an even greater risk than that caused byAPOE ε4 allele. 
+Abnormal cholesterol metabolism is related to APOE ε4 allele, suggesting 
+that some of the adverse effects of this genotype on AD risk may be partially 
+mediated through lipoprotein dysregulation. In a community-based cohort 
+study, higher glucose levels were associated with an increased risk of 
+dementia in populations both with and without diabetes mellitus. Metabolic 
+syndrome is also associated with increased risk for AD, although this cluster 
+of risk factors is more consistently related to greater risk of vascular 
+dementia. Midlife obesity (RR 1.60, 95% CI 1.34–1.92) and physical 
+inactivity (RR 1.82, 95% CI 1.19–2.78) are interrelated and both 
+independently increase the risk for developing AD in late life. With more 
+than 35% of current US adults meeting criteria for obesity, there is concern 
+that this risk factor could further accelerate projected increases in AD 
+incidence rates over the coming decades. 
+
+
+Studies support that vascular factors exert an independent additive effect 
+on AD risk. The presence of multiple cardiovascular risk factors at midlife 
+substantially increases the risk of late-life dementia in a dose-dependent 
+manner. The positive corollary to these findings is that about a third of AD 
+cases worldwide might be attributable to potentially modifiable risk factors, 
+thus, providing a target for preventive strategies. Vascular risk factors exert 
+their adverse effects on AD pathology through a variety of mechanisms, 
+including modulation of β-amyloid (Aβ) metabolism, effects on insulin 
+receptors, blood-brain barrier (BBB) integrity, endothelial dysfunction, and 
+
+
+
+cerebral blood flow. These vascular-mediated changes subsequently lead to 
+tissue hypoxia, increased oxidative stress, inflammation, and cognitive 
+decline. 
+
+
+Traumatic Brain Injury 
+
+
+There is increasing epidemiologic evidence that moderate or severe 
+traumatic brain injury (TBI) is a risk factor for AD in late life and may 
+precipitate earlier onset of the disease. In longitudinal studies, the magnitude 
+of AD risk increases with TBI severity. Compared to controls, World War II 
+veterans with moderate TBI were twice as likely to develop AD, whereas 
+the risk was fourfold in veterans with severe TBI with loss of consciousness. 
+Neuropathologic examination of brains from patients with a history of head 
+trauma generally reveals changes of diffuse amyloid plaques together with 
+tau pathology, inflammatory response, and loss of cholinergic neurons. These 
+pathologic changes may be related to transient upregulation of BACE1 
+together with increased generation of Aβ. These features are accompanied by 
+tau hyperphosphorylation and increased caspase-mediated cleavage of APP. 
+Thus, head trauma may lead to AD by triggering accelerated 
+neurodegeneration. 
+
+
+Newer evidence demonstrates that recurrent mild TBI, including both 
+concussive and subconcussive injuries, may also contribute to future risk of 
+cognitive decline. However, it has been difficult to establish risk estimates of 
+the impact of repetitive mild TBI on risk for AD due to a variety of 
+methodologic challenges. The high frequency of concussive and 
+subconcussive injuries, the variability in definitions and measurements of 
+mild TBI, the heterogeneity of injuries among various cohorts (ie, military 
+combat veterans vs contact sport athletes), and selection and recall biases 
+have complicated research of this area. Repetitive concussive injuries may 
+also lead to chronic traumatic encephalopathy (CTE), a condition that is 
+neuropathologically distinct from AD. Symptoms of CTE frequently include 
+headaches and disturbances in attention or concentration and depression— 
+Chapter 64 provides additional details on CTE. Research is underway to 
+clarify the varying types and severity of TBI and the effects of such injuries 
+on risk for posttraumatic neurodegeneration. 
+
+
+Depression 
+
+
+
+More than 30% of patients with AD develop depression during the course of 
+their illness, and some may present with depressive symptoms as their first 
+clinical manifestation of underlying AD. While depression has long been 
+recognized as a common psychiatric condition in older adults that may mimic 
+dementia, depression is likely also a risk factor for AD. Findings of a metaanalysis 
+involving over 20 population-based prospective studies supported 
+an increased risk of AD in patients with a history of late-life depression 
+(pooled risk OR [95% CI] 1.65 [1.42–1.92]). To date, the precise 
+mechanisms underlying the association between depression and enhanced 
+AD risk are unknown. Several potential mechanisms have been proposed that 
+are common to both AD and depression, including elevated levels of 
+cytokines, increased vascular risk factors, and the potential role ofAPOE4 
+allele. More research is needed to better understand the biological basis of 
+increased risk of AD in patients with a history of depression. 
+
+
+Race and Ethnicity 
+
+
+The assessment of differences in AD prevalence rates across geographic 
+regions worldwide and among various racial and ethnic groups has proven to 
+be challenging. Differences in education, literacy, life expectancy, access to 
+health care, nutrition, social stressors, vascular risk factors, and cultural 
+beliefs in what is considered normal aging can all influence AD prevalence 
+estimates. In the Indianapolis/Ibadan studies, the incidence and prevalence of 
+AD were significantly lower among Africans in Ibadan, Nigeria, than among 
+age-matched African Americans in Indianapolis, suggesting that differences 
+in environmental factors may play a larger role than race in influencing the 
+development of AD. The significant influence of environmental factors on 
+AD risk is also supported by data showing that migrant populations tend to 
+have dementia rates that fall between those seen in their homeland and 
+adopted countries. Standardized approaches to case ascertainment of 
+dementia and statistical comparisons across nations have been implemented 
+to better assess variations in prevalence rates among low-, middle-, and 
+high-income countries. These approaches have produced age-adjusted 
+dementia prevalence estimates of approximately 5% to 9% in people older 
+than age 60 across global regions. 
+
+
+Studies assessing ethnic and racial variations in dementia rates within 
+countries have identified some group differences in AD incidence and 
+prevalence. In a population-based study in the Washington Heights and 
+
+
+
+Inwood communities of New York City, the cumulative incidence of AD was 
+increased twofold among individuals of African-American and Caribbean 
+Hispanic origin. The group differences in AD incidence did not change 
+following corrections for differences in years of education or history of 
+vascular risk factors. In a study in Houston, Texas, both the incidence and 
+prevalence of AD were higher among older African-American and Hispanic 
+individuals compared to non-Hispanic White adults. In Singapore, ethnic 
+Malays and Indians had higher rates of dementia compared to ethnic Chinese, 
+independent of vascular risk factors. While some research suggests there may 
+be biological or genetic differences driving variations in AD risk, other 
+studies support that these racial and ethnic group differences will not persist 
+after rigorously accounting for important social, cultural, and environmental 
+factors influencing risk of dementia. 
+
+
+Education 
+
+
+Low educational attainment, poor educational quality, and illiteracy have 
+been shown to be associated with increased risk for AD. In a meta-analysis 
+of 13 cohort and six case-control studies, low education had a pooled 
+relative risk (RR) estimate for AD of 1.80 (95% CI 1.45–2.27) compared to 
+high education, although the estimate from cohort studies (RR 1.59 [95% CI 
+1.35–1.86]) was significantly lower than the estimate based on case-control 
+studies (2.40, [1.32–4.38]). Prospective cohort studies likely provide a more 
+accurate assessment of the association between education and dementia since 
+they allow for documentation of a decline from a previous level of cognitive 
+performance. Some studies have found that education may be a marker of 
+cognitive reserve as it modifies the association between AD neuropathology 
+and level of cognitive function. For the same degree of brain pathology, 
+persons with higher education demonstrate less cognitive impairment. In 
+addition, higher levels of education may help individuals cope more 
+effectively with cognitive changes. Access to higher levels of education may 
+also be a marker of socioeconomic status, coexisting chronic diseases, 
+access to health care resources, and premorbid intellectual abilities. Thus, 
+while low educational attainment is associated with increased AD risk, it is 
+not clear to what extent low education contributes to AD or whether early 
+educational interventions will protect against the development of dementia. 
+
+
+Gender 
+
+
+

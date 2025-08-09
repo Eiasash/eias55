@@ -1,0 +1,1228 @@
+There is some evidence that AD is more common among women, although 
+study results are conflicting. In population-based studies, more than half 
+reported a greater risk of AD in women, while the others found no 
+difference. Some data support that estrogen deficiency following menopause 
+may contribute to the development of AD; however, the effect of hormone 
+replacement therapy on cognition remains controversial. The discrepant 
+findings between studies assessing sex-based variations in dementia risk are 
+likely due to methodologic differences in accounting for potential genderrelated 
+variability in life-expectancy, education, occupation, and lifestyle 
+factors that can directly affect AD risk. 
+
+
+PATHOPHYSIOLOGY 
+
+
+Genetics of Alzheimer Disease 
+
+
+Based on the onset of symptoms, AD is normally divided into two groups: 
+younger-onset (< 65 years) and late-onset (> 65 years) disease. Youngeronset 
+patients include individuals with familial AD which accounts for 
+between 1% and 5% of all AD cases and to date has been linked to mutations 
+in the genes for the APP (gene name 
+APP) on chromosome 21, presenilin 1 
+(PS1; gene name 
+PSEN1) on chromosome 14, and presenilin 2 (PS2; gene 
+name 
+PSEN2) on chromosome 1. Among these genes, more than 250 different 
+mutations have so far been identified, accounting for approximately 40% of 
+all cases of familial AD, yet only 0.5% of AD cases overall. Most of the 
+mutations (~ 200) are found in the 
+PSEN1 gene and account for 78% of the 
+familial AD mutations. APP mutations (~ 33) account for about 18% of 
+younger-onset autosomal dominant cases and PSEN2 (~ 22 mutations) for 
+about 4%. Familial AD is characterized by younger onset of cognitive 
+symptoms (typically in the late 40s or early 50s), but is clinically 
+indistinguishable from late-onset AD. 
+
+
+Late-onset AD, also called sporadic AD, accounts for greater than 95% 
+of all cases of the disease. APOE is the only established susceptibility gene 
+consistently found associated with late-onset AD in both case-control and 
+genetic studies. APOE maps to chromosome 19 in a cluster with the genes 
+encoding translocase of outer mitochondrial membrane 40 (TOMM40), 
+apolipoprotein C1, and apolipoprotein C2. The 
+APOE gene exists as three 
+major alleles (ε2, ε3, and ε4) that encode three different ApoE isoforms: 
+ApoE2, ApoE3, and ApoE4. Interestingly, these isoforms only differ in 
+
+
+
+amino acid sequences at either position 112 or 158 of the protein. The 
+inheritance of the ε4 allele confers an increased risk for developing AD, 
+while the ε2 allele confers protection. For example, presence of one copy of 
+the ε4 allele increases risk of AD fourfold, whereas inheritance of two 
+copies enhances the risk by 12-fold. However, unlike genetic mutations 
+associated with familial AD, the presence ofAPOE ε4 alone is insufficient to 
+cause AD without additional factors. Even though the first report of an 
+association betweenAPOE ε4 and AD was published decades ago, the 
+precise molecular mechanisms underlying this association still remain 
+elusive. It is currently unknown if the 
+APOE4 allele influences the rate of 
+production, clearance, or aggregation of Aβ peptide or whether it influences 
+cholesterol metabolism and inflammation that reportedly play a major role in 
+the pathobiology of AD. 
+
+
+With the advent of genome-wide association studies (GWASs), a number 
+of new genetic loci with genome-wide significance have been identified. In 
+addition to APOE4, more than 40 other polymorphisms have been associated 
+with increased risk for late-onset AD. However, none of these associations 
+has been uniformly confirmed in every population group studied to date. 
+Over 20 genetic loci have been associated with late-onset AD, leading to 
+four main mechanisms: Aβ metabolism, lipid metabolism, immune response, 
+and cell signaling. Further research is needed to clarify the impact of other 
+genetic changes on AD risk, genetic-environmental interactions, and the 
+impact of such genetic factors on mechanisms of neurodegeneration and 
+neuroprotection. 
+
+
+Neuropathology of Alzheimer Disease 
+
+
+The neuropathologic hallmarks of AD include amyloid plaques, 
+neurofibrillary tangles, and neuritic plaques (Figure 59-1). The latter are a 
+subset of amyloid plaques that are closely associated with neuronal injury 
+and occur with dystrophic neurites. Cerebral amyloid angiopathy (CAA) 
+frequently co-occurs with amyloid plaques, resulting from deposition of Aβ 
+into cerebral vessels. Sporadic CAA is observed in 80% to 90% of AD 
+patients and may cause lobar intracerebral hemorrhages and microbleeds. 
+Together these processes contribute to loss of neurons and synapses in the 
+neocortex, hippocampus, and other subcortical regions of the brain. The 
+predominance of amyloid plaques versus neurofibrillary tangles or amyloid 
+angiopathy can differ from one patient to another. However, 
+
+
+
+neuronal/synaptic loss is a constant feature and eventually the direct cause of 
+dementia. The distribution of the disease pathology seems to follow a regionspecific 
+pattern with amyloid plaques being more prevalent in the neocortex 
+and neuronal/synaptic loss being more prevalent in the hippocampus, 
+posterior cingulate, and corpus callosum—areas of the brain closely 
+involved with memory formation and higher cortical activities. Finally, 
+brains of persons with AD are also characterized by a diffuse and 
+widespread invasion of reactive astrocytes, mostly concentrated in the 
+hippocampus and around areas of neuronal loss. These astrocytic changes are 
+not specific to AD and can be observed in other neurodegenerative disorders 
+associated with inflammation and neurotoxic insults. 
+
+
+
+FIGURE 59-1. 
+Smallsectionof the 
+neocortexfroma 
+patient 
+withAlzheimer disease 
+showing 
+twoclassicalneuropathologic 
+lesions 
+of the 
+disease. 
+A. 
+The 
+modifiedsilver stainingshows 
+one 
+dense 
+senile 
+(amyloid) plaque 
+indicatedbythree 
+arrowheads. 
+The 
+plaque 
+consists 
+of aggregated 
+extracellular deposits 
+of amyloidβ-peptide 
+(Aβ) fragments 
+surroundedbysilver-positive 
+dystrophic 
+neurites. 
+The 
+arrow 
+indicates 
+a 
+neuroncontainingneurofibrillarytangles,which 
+appear as 
+darkmasses 
+of abnormalfilaments 
+occupyingmostof the 
+cytoplasm. 
+B. 
+The 
+image 
+shows 
+higher magnificationof twoneurons 
+containingneurofibrillarytangles 
+(indicated 
+by 
+arrows). 
+(ReproducedwithpermissionfromShahriar Salamat,MD,PhD,Universityof 
+WisconsinSchoolof Medicine 
+andPublic 
+Health,Department 
+of PathologyandLaboratory 
+Medicine.) 
+
+
+The dominant component of the amyloid plaque core is Aβ organized in 
+fibrils of approximately 7 to 10 nm intermixed with nonfibrillar forms of the 
+peptide. Neuritic plaques are characterized by a dense core of aggregated 
+fibrillar Aβ, surrounded by dystrophic dendrites and axons, activated 
+
+
+
+microglia, and reactive astrocytes. In addition, diffuse deposits of Aβ, likely 
+representing a prefibrillary form of the aggregated peptide, are found without 
+any surrounding dystrophic neurites, astrocytes, or microglia. These diffuse 
+plaques can be found in limbic and association cortices, as well as in the 
+cerebellum. 
+
+
+The other neuropathologic hallmark of AD is the presence of 
+neurofibrillary tangles found exclusively in the cytoplasm of neurons (see 
+Figure 59-1). The tangles appear as paired, helically twisted protein 
+filaments composed of highly stable polymers of cytoplasmic proteins called 
+tau. Tau comprises a group of alternatively spliced proteins found in the 
+cytoplasm that possess either three or four microtubule-binding domains and 
+can assemble with tubulin, thus helping the formation of cross bridges 
+between adjacent microtubules. Tau proteins can be phosphorylated in 
+multiple sites, and the degree of phosphorylation is inversely correlated with 
+binding to microtubules. As a result, highly phosphorylated tau proteins 
+dissociate from microtubules and polymerize into filaments forming 
+neurofibrillary tangles. In addition to AD, the abnormal accumulation of 
+filamentous tau is observed in frontotemporal forms of dementia, progressive 
+supranuclear palsy, corticobasal degeneration, and Pick disease. Contrary to 
+prior belief, tau proteins themselves can cause dementia, and multiple 
+mutations in the 
+tau gene have been found in frontotemporal dementia (FTD) 
+with parkinsonism. The precise role of tau proteins in the pathogenesis of 
+AD and their potential interaction with Aβ are still unclear. 
+
+
+In 2012, NIA and the Alzheimer’s Association published revised criteria 
+for AD neuropathologic change. These criteria recommended reporting on 
+the presence and extent of hallmark lesions for AD observed at autopsy 
+independent of the individual’s cognitive state. These new guidelines took 
+into account several well-established neuropathologic scoring criteria and 
+integrated them into an “ABC score” based on three parameters (Amyloid, 
+Braak, CERAD): criterion “A” ranks the Aβ plaque score (based on criteria 
+from Thal et al.), criterion “B” measures the neurofibrillary tangle stage 
+(modified from Braak criteria), and criterion “C” assesses the neuritic 
+plaque score (modified from the Consortium to Establish a Registry for 
+Alzheimer Disease [CERAD]). For reporting, these ABC scores are then 
+transformed into one of four levels of neuropathic change: none, low, 
+intermediate, or high. While CAA is not considered in the “ABC” score, the 
+guidelines recognize that these changes frequently co-occur with 
+
+
+
+parenchymal Aβ plaques and recommend neuropathologists comment on such 
+changes separately within the neuropathology report. 
+
+
+Amyloid Precursor Protein Processing and Generation of Aβ 
+
+
+Aβ is a 39 to 43 amino acid hydrophobic peptide proteolytically released 
+from a much larger precursor, APP. Although APP is the major source of 
+toxic Aβ, it also exerts several important functions in the nervous system, 
+including serving as a cell-surface receptor, growth factor, protease inhibitor, 
+cell–cell interaction molecule, coreceptor/partner in the endocytic/lysosomal 
+network, coagulation inhibitor factor, cell-surface scaffold protein, kinesininteracting 
+molecule for axonal transport, and transcription factor. The 
+generation of Aβ from APP (Figure 59-2) requires the sequential recruitment 
+of two enzymatic activities: β-secretase, also called BACE1, and γsecretase, 
+a multimeric protein complex containing presenilin, nicastrin, 
+Aph-1, Pen-2, and CD147. The β-cleavage is the rate-limiting step and 
+occurs before the γ-cleavage. It liberates a large N-terminal fragment of the 
+protein (sβAPP) that is released in the extracellular milieu and a small (~12 
+kDa) membrane-anchored fragment called β-APP-CTF (or C99). The release 
+of the large N-terminal domain allows subsequent γ-cleavage, and liberation 
+of Aβ and the signaling of active intracellular domain (AICD) of APP (see 
+Figure 59-2). Generation of Aβ40 and Aβ42 results from γ-cleavage of Aβ 
+at positions 40 and 42, respectively. The release of Aβ in the extracellular 
+milieu is followed by oligomerization and aggregation in the form of fibrils 
+and amyloid plaques. Additionally, small Aβ aggregates are also found in the 
+soma of the neurons suggesting that the Aβ fragments can escape secretion 
+and aggregate in the intracellular environment. The molecular mechanisms 
+underlying the toxicity of Aβ are still being investigated and currently 
+incompletely understood. However, research seems to indicate that small Aβ 
+aggregates (oligomers), which represent the “preplaque” neurotoxic species 
+of Aβ, act as the proximate cause of neuronal injury and synaptic loss 
+associated with AD. Additionally, the C-terminal tail of APP can undergo 
+further processing at amino acid 664 of APP695 liberating two small 
+cytosolic fragments, Jcasp and C31. Both of these fragments are generated 
+only after γ-cleavage, require caspase-mediated processing of APP, and can 
+activate proapoptotic pathways in a variety of cellular systems. 
+
+
+
+FIGURE 59-2. 
+Generationof amyloidβ-peptide 
+(Aβ) fromamyloidprecursor protein(APP). 
+APP 
+is 
+a 
+type 
+1membrane 
+proteinwitha 
+large 
+extracellular domain,a 
+single 
+membranespanningdomain,
+anda 
+short 
+cytoplasmic 
+tail. 
+The 
+Aβ 
+regionof APP 
+(in 
+yellow) includes 
+the 
+first 
+12to14aminoacids 
+of the 
+membrane 
+domain. 
+(A) Shows 
+a 
+schematic 
+image 
+of APP 
+on 
+the 
+cellsurface 
+of a 
+neuron,whereas 
+(B) provides 
+a 
+closer view 
+of APP 
+processing. 
+The 
+initial 
+enzymatic 
+stepfor the 
+generationof Aβ 
+requires 
+proteolysis 
+of APP 
+at 
+β-site 
+(aminoacid1of 
+the 
+Aβ 
+region). 
+This 
+event 
+liberates 
+a 
+large 
+N-terminalfragment 
+(sβAPP) that 
+is 
+rapidly 
+secretedintothe 
+extracellular milieuanda 
+smallC-terminalfragment 
+(β-APP-CTF) of 99amino 
+acids 
+(alsocalledC99). 
+The 
+removalof sβAPP 
+most 
+likelyinduces 
+a 
+conformationalchange 
+that 
+allows 
+subsequent 
+cleavage 
+byγ-secretase. 
+Once 
+generated,the 
+Aβ 
+peptides 
+aggregate 
+in 
+the 
+braininthe 
+formof plaques. 
+Further cleavage 
+of β-APP-CTFat 
+the 
+site 
+liberates 
+the 
+signalingactive 
+APP 
+intracellular domain(AICD). 
+Inadditiontothe 
+above 
+β/γ 
+pathway,APP 
+canalsobe 
+cleavedat 
+the 
+α-site 
+(betweenaminoacids 
+16and17of the 
+Aβ 
+region) precluding 
+the 
+generationof Aβ. 
+
+
+
+The most critical clinical link between Aβ and AD came from the 
+observation that patients with Down syndrome (trisomy 21) had a higher 
+propensity for developing a clinical and pathologic phenotype resembling 
+AD, thereby suggesting a potential association between AD and chromosome 
+
+
+21. This observation was further strengthened by the fact that Aβ was the 
+major component in plaques from both patients with Down syndrome and 
+AD, and that its genesis was related to a gene (APP) located on chromosome 
+21, close to the obligate Down syndrome region. Following the identification 
+of APP, several groups found mutations in the 
+APP gene that were linked to 
+familial forms of AD. Given that the duplication of the 
+APP locus could 
+result in early AD and that Down syndrome patients with partial trisomy 21 
+developed AD only when the trisomy was proximal to the 
+APP locus, the 
+potential direct relationship between APP metabolism and AD seems strong. 
+Furthermore, causative mutations in the genes that encode for PS1 and PS2, 
+which are also implicated in the metabolism of APP, have been found and are 
+associated with familial forms of AD, thereby conferring additional strength 
+to the linkage between APP/Aβ metabolism and AD. 
+Although the generation of Aβ from APP seems to be a pivotal step in the 
+pathobiology of AD, it does not explain all the neuropathologic changes 
+observed in patients with AD. For example, examination of the brain of 
+transgenic mice expressing human APP harboring one or more familial ADassociated 
+mutations reveals the presence of amyloid plaques and some 
+synaptic loss and cognitive deficits, but absence of tau pathology and 
+astrocytosis. This suggests that additional biochemical/molecular events are 
+required to develop the full pathologic spectrum of AD. To circumvent this 
+issue, several new animal models have been generated where human APP is 
+accompanied by additional genes. These genes include the 
+presenilins 
+(harboring familial AD-associated mutations), tau, and APOE. Recently, 
+several transgenic mice models harboring three or five familial ADassociated 
+mutations (respectively called 3X and 5X mice) in two or more 
+genes have been generated. All of these models demonstrate that Aβ is an 
+essential element for the development of AD-like neuropathology and 
+revealed a close relationship between Aβ and the 
+phosphorylation/aggregation state of tau. However, none of the mouse models 
+fully reproduce the classical AD phenotype, thereby again suggesting that Aβ 
+seems to be necessary but not sufficient to produce the entire spectrum of AD 
+neuropathology. Transgenic mice expressing the human microtubule
+
+
+
+associated protein tau develop the typical tau-related pathology found in 
+individuals suffering from FTD with parkinsonism; however, they do not 
+develop amyloid plaques, suggesting that tau is not required for the formation 
+of plaques. Crossing these mice with APP transgenic mice potentiates taurelated 
+pathology and neuronal loss but does not aggravate plaque pathology, 
+suggesting that Aβ acts upstream of tau in the classical AD phenotype. 
+However, studies from patients with AD, mouse models, and ex vivo cellular 
+systems indicate that Aβ and tau can interact synergistically, thereby fostering 
+their respective aggregation and neuronal loss. Thus, the true relationship 
+between Aβ and tau is more complex than previously thought and likely 
+involves additional molecular and biochemical pathways acting upstream of 
+both Aβ and tau production in the AD brain. 
+
+
+CLINICAL PRESENTATION 
+
+
+The most common clinical onset of AD is an amnestic presentation, 
+characterized by slowly progressive memory loss for recent events. Patients 
+with AD frequently have problems remembering recent conversations, dates, 
+appointments, and may misplace items. Many patients are not aware of these 
+deficits and are brought to medical attention by their family members or 
+friends. For some patients, memory loss symptoms are first noted by others 
+during a stressful life event, such as the patient’s hospitalization or the death 
+of a spouse; however, a thorough interview frequently reveals that the 
+cognitive deficits preceded such an event by months to years. The memory 
+deficits of AD are generally differentiated from those caused by normal aging 
+by the fact that AD-related deficits are progressive and interfere with the 
+individual’s usual daily activities. Memory loss leading to a change in 
+functional status is not a part of normal aging and warrants further evaluation. 
+
+
+Nonamnestic presentations of AD are also common and may include 
+prominent initial impairments in language abilities, visuospatial skills, and 
+executive function. As these presentations are less commonly recognized by 
+patients, families, and clinicians alike as being early symptoms related to 
+AD, individuals with nonamnestic presentations are frequently misdiagnosed 
+or experience a delay in diagnosis. In addition to the more common amnestic 
+presentation, nonamnestic presentations are specifically identified in the 
+NIA-AA diagnostic criteria for AD (see 
+Table 59-1). Patients who initially 
+present with language impairment frequently will complain of marked word
+
+
+
+finding problems with subsequent progression to paraphasic errors and 
+circumlocution. AD patients with a visuospatial presentation may have 
+prominent deficits in spatial cognition, including poor object and face 
+recognition, an inability to perceive multiple visual elements simultaneously, 
+and difficulty understanding written language. Executive dysfunction is 
+another common initial presenting symptom of AD, leading to impairments in 
+reasoning, judgment, problem solving, and an inability to complete complex 
+demanding tasks. Deficits in concentration and attention frequently occur in 
+patients with AD, but these changes may also be notable in persons with 
+depression, attention deficit disorder, sleep disorders, or adverse medication 
+effects. 
+
+
+As the disease progresses, changes in personality are commonly seen in 
+patients with AD and may include increased passivity, lack of interest, 
+agitation, restlessness, and/or overactivity. AD patients may exhibit 
+increased irritability when confronted with memory loss symptoms, such as 
+when struggling to find a word, being reminded of a prior conversation or 
+event, or searching for a misplaced item. More than 30% of persons with AD 
+develop symptoms of depression, which may be the first clinical presentation 
+of the disease. Early signs of depression in patients with AD include 
+increased irritability, alterations in appetite or sleep, trouble concentrating or 
+making decisions, low energy, social withdrawal, and a decline in physical 
+function. Worsening of behavior and cognitive symptoms in the evening is 
+also common in patients with AD and may be related to changes in circadian 
+rhythm from loss of sunlight. 
+
+
+In the later stages of the disease, individuals may have increased 
+confusion, dysphagia, impaired gait, and repeated falls. In some patients with 
+AD, disruptive behaviors may increase with aggression, agitation, and 
+physical or verbal hostility; in others, these behavioral symptoms lessen with 
+disease progression. The majority of patients become increasingly frail and 
+dependent for self-care and activities of daily living with many patients 
+developing bowel and bladder incontinence. Persons in the late stages of AD 
+may become immobile and bed-bound, which increases their risk of 
+developing pressure sores, malnutrition, and dehydration. The most common 
+causes of death in patients with AD include pneumonia, urinary sepsis, 
+dehydration, pressure sores, fractures, and malnutrition. The median survival 
+period from the time of diagnosis to death generally ranges from 7 to 10 
+years, although some patients, especially those with familial AD, die earlier. 
+
+
+
+EVALUATION 
+
+
+For many older patients with cognitive complaints, their evaluation, 
+diagnosis, and management may be effectively completed within a primary 
+care setting. If available, utilization of multidisciplinary team members from 
+nursing, social work, psychology, and/or pharmacy can greatly aid a primary 
+care physician in the diagnosis and management of patients with cognitive 
+concerns. A smaller subset of patients will need more in-depth 
+neuropsychological assessment and clinical evaluation from a dementia 
+specialist. The NIA-AA clinical diagnostic criteria for dementia, AD, and 
+MCI (see 
+Tables 59-1 and 59-2) were designed to be used across all clinical 
+settings, including primary care, specialty clinics, and long-term care. The 
+clinical diagnoses of MCI and dementia are primarily ascertained through 
+completion of a focused interview with the patient and an informant who 
+knows the patient well, a thorough review of the patient’s medical history 
+and medication use, a comprehensive physical examination, a formal 
+assessment of cognitive function, basic laboratory tests, and neuroimaging 
+(Table 59-3). While the differential diagnosis for AD is extensive (Table 594), 
+a systematic approach to dementia diagnosis can help primary care 
+clinicians identify common confounding medical and psychiatric conditions 
+and medications that can adversely affect cognition. In addition, a structured 
+evaluation may facilitate accurate diagnosis of the most common causes of 
+dementia—AD and AD mixed with vascular dementia as well as 
+predementia syndromes such as MCI. Integrating various established 
+diagnostic criteria, Figure 59-3 shows a primary care diagnostic algorithm 
+developed to guide clinicians in their assessment of patients with cognitive 
+complaints. 
+
+
+TABLE 59-2■NIA-AA CORE CLINICAL DIAGNOSTIC CRITERIAFOR MILD COGNITIVE IMPAIRMENT
+
+FIGURE 59-3. 
+Algorithmfor the 
+clinicaldiagnosis 
+of Alzheimer disease. 
+
+
+Identification of a cognitive concern is the first step in the evaluation. 
+While early cognitive changes in some patients may be readily identified by 
+the individuals themselves, their families, and/or their clinicians, such 
+symptoms may not be as apparent in other patients due to a variety of factors, 
+including poor insight, attribution of such changes to normal aging, cultural 
+views of dementia, or lack of corroborative history from others. Whether all 
+older adults should undergo routine screening for dementia remains 
+controversial. The US Preventive Services Task Force recommends against 
+routine screening for dementia in asymptomatic older adults based on 
+insufficient evidence that such widespread screening impacts individual or 
+societal outcomes. However, the US Medicare Annual Wellness Visit 
+requires that clinicians assess cognitive function by “direct observation,” 
+although no cognitive screening tool is endorsed. In an effort to 
+operationalize the Medicare Annual Wellness Visit requirements, the 
+Alzheimer’s Association recommends using self-reported memory concerns, 
+clinician observations, or concerns from a person who knows the patient 
+well to trigger a formal memory assessment. Screening questions such as 
+“Does your memory bother you?” or “Do you think your memory is worse 
+than others of your age?” also may be used to determine which older patients 
+
+
+
+need a formal evaluation of cognitive performance. Identifying memory 
+concerns through self-report or screening questions may reduce the number of 
+unnecessary formal cognitive screening tests administered to asymptomatic 
+adults at low risk for dementia. However, individuals without a close 
+informant may need structured cognitive tests to identify memory concerns. 
+When a cognitive concern is identified, a separate clinic visit should be 
+arranged to investigate the underlying cause (see 
+Figure 59-3 and Table 593). 
+
+
+TABLE 59-3■EVALUATION OF THE PATIENT WITHCOGNITIVE CONCERNS
+
+Within a dedicated primary care clinic visit, an optimal cognitive 
+assessment includes gathering information not only from the patient’s 
+perspective, but also independently in a separate interview from an informant 
+who knows the patient well. Depending on available time and resources, an 
+independent informant interview may be accomplished through utilizing a 
+variety of health care team members, such as social workers, medical 
+assistants, nurses, or psychologists to conduct a brief structured informant 
+interview or a full detailed assessment. Important historical elements include 
+establishing when the cognitive symptoms began and the very first symptoms 
+noted (such as problems with memory, language, executive function, apraxia, 
+or personality changes). A careful delineation of the time course of 
+progression will narrow the differential diagnosis and will help identify 
+whether there are multiple contributing factors or one underlying process. 
+Frequently, an inciting event that disrupts coping skills, such as a 
+hospitalization or the death of a spouse, will draw the attention of family 
+members to a patient’s memory problems. The family may give a history of 
+an acute onset of memory impairment following the inciting event, but careful 
+questioning may identify cognitive problems preceding that time period and 
+point to a gradually progressive course. 
+
+
+A key component to the interview is establishing the patient’s baseline 
+cognitive and functional performance, taking into account past educational 
+opportunities, estimated baseline intellectual function, occupational history, 
+and prior established skills and abilities. Understanding the patient’s 
+
+
+
+baseline function will put neuropsychological test results into context in 
+order to prevent over- or underdiagnosing dementia in patients who present 
+with cognitive concerns. Changes in the person’s ability to carry out tasks 
+related to their occupation, hobbies, household management, and other 
+volunteer activities should then be ascertained. 
+
+
+There are common reversible causes of cognitive dysfunction that next 
+should be addressed. One of the first steps should be a careful review of 
+prescription and nonprescription medications. Drugs with known 
+anticholinergic properties (such as antihistamines, tricyclic antidepressants, 
+bladder antispasmodic agents, etc) or sedating side effects (such as highdose 
+gabapentin, other antiepileptic medications, narcotic analgesics, 
+benzodiazepines, sleeping aids, etc) should be carefully reviewed to see if 
+the benefit of the offending medication outweighs the adverse cognitive 
+effects. Patients should be included in shared decision-making with any 
+medication adjustments as the value placed on various symptoms is likely to 
+differ between individuals. 
+
+
+Clinicians should carefully evaluate their older patients for depression, 
+anxiety, or other mood disorders that can affect cognitive performance. 
+Depression may be a prodromal syndrome prior to dementia onset, but also 
+commonly co-occurs with this syndrome. Pointed questions assessing for 
+changes in sleep duration and/or quality, interest in activities, feelings of 
+guilt, loss of energy, impaired concentration, changes in appetite, 
+psychomotor slowing, and suicidal thoughts should be assessed. A brief 
+screening tool such as the Geriatric Depression Scale (GDS) can be 
+administered by a health care team member or self-administered while the 
+patient is waiting for the clinician. Older patients with depression frequently 
+complain of problems with poor concentration and forgetfulness and may 
+perform poorly on tests of attention, speed of processing, and memory. In 
+such patients, it is important to differentiate a loss of interest related to 
+depression from a lack of initiative due to a neurodegenerative disorder. 
+Treating depression and anxiety may lead to improvements in cognitive 
+performance as well as mood. 
+
+
+Hearing loss may mimic cognitive dysfunction as patients who cannot 
+hear well may not be able to properly encode new information from 
+conversations or other auditory-received information. Questions on hearing 
+loss symptoms and use and fit of any prescribed hearing aids can alert the 
+provider as to whether hearing loss is contributing to cognitive symptoms or 
+
+
+
+if further hearing evaluation is needed (see 
+Chapter 34 for approach to 
+screening for hearing loss). 
+
+
+A careful assessment of alcohol use should be completed in all patients, 
+especially if cognitive performance varies widely from visit to visit or if the 
+patient lives alone. Risk for obstructive sleep apnea should be assessed with 
+several screening questions assessing the patient’s snoring, witnessed apneic 
+episodes, excessive daytime sleepiness, or nonrestorative sleep. In patients 
+with diagnosed sleep apnea, their ability to effectively and regularly use their 
+continuous positive airway pressure (CPAP) device should be assessed and 
+any difficulties should be reported to the sleep medicine and/or respiratory 
+therapy team to seek out other mask options for better fit and tolerance. 
+Obstructive sleep apnea with its related hypoxia can cause profound effects 
+on cognition. 
+
+
+Vascular disease may contribute to cognitive impairment through a 
+variety of mechanisms. In addition to stroke causing acute cognitive decline, 
+chronic low cerebral blood flow leading to subclinical hypoperfusion may 
+also contribute to cognitive impairment and AD. Thus, a careful assessment 
+of vascular risk factors should be completed to make sure they are well 
+treated. Carotid bruits or a history of sudden cognitive changes should 
+prompt work-up for cerebrovascular disease with neuroimaging (computed 
+tomography [CT] or preferably magnetic resonance imaging [MRI]) and 
+either carotid ultrasound or magnetic resonance angiogram (MRA). 
+
+
+Delirium is associated with an acute or subacute onset of fluctuating 
+cognitive dysfunction and may be caused by a wide variety of medical 
+conditions and medications. In patients with delirium, a careful history 
+frequently can tease out the temporal relationship between the onset of 
+potentially reversible cognitive symptoms and contributing underlying 
+medical problems or medications. Patients who have had a significant medial 
+illness may exhibit signs of delirium for weeks to months following the 
+inciting illness. Care should be made to avoid making a diagnosis of 
+dementia in the presence of a resolving delirium. Since dementia is a risk 
+factor for delirium, however, the presence of a delirium may suggest an 
+underlying neurodegenerative disorder. 
+
+
+Additional information on safety should be obtained, including inquiries 
+on medication management, driving, kitchen safety, use of firearms or heavy 
+equipment or power tools, wandering, and susceptibility to financial scams. 
+A review of systems should include questions on depression, tremors, falls, 
+
+
+
+visual hallucinations, symptoms of stroke or transient ischemic attack, ataxia, 
+dysphagia, urinary incontinence, waxing and waning level of consciousness, 
+agitation, and personality changes. 
+
+
+The patient’s past medical history should be reviewed for medical and 
+psychiatric conditions affecting cognition, including cardiovascular and 
+cerebrovascular disease and associated risk factors, surgical procedures 
+including coronary artery bypass surgery, significant hearing loss, 
+depression, Parkinson disease, TBI, seizures, and/or heavy alcohol use. A 
+thorough medication review should be conducted to assess all prescription 
+and nonprescription medications and the association of any medication 
+initiation and/or dose adjustment with changes in cognitive symptoms. 
+Patients should be encouraged to bring in all pill bottles to the clinic visit. 
+The social history should assess the patient’s education and occupational 
+baseline, their social support network, and their use of community resources. 
+An accurate assessment of prior or current alcohol or illicit drug use and a 
+sexual history with special attention to sexually transmitted disease (notably 
+syphilis and HIV) risk factors are critical to a correct diagnosis. An 
+assessment of family history of dementia should include age of onset and time 
+course of any symptoms of family members with memory loss. 
+
+
+The physical examination should include assessment of general 
+appearance and a mental status examination (see 
+Table 59-3). Careful 
+observation upon interviewing a patient can provide rich information as to 
+their ability to care for themselves, their organizational ability, their ability 
+to provide detail within their conversation, and their comprehension of posed 
+questions and the appropriateness of their response. Ears should be checked 
+for any cerumen accumulation and/or hearing loss. A neurologic examination 
+should screen for focal deficits, gaze palsies, increased muscle tone, 
+cogwheeling, tremors, and ataxia. A detailed review of a comprehensive 
+mental status and neurologic examination in older adults is described in 
+Chapter 9. Cardiac arrhythmias, carotid bruits, or abdominal or femoral 
+bruits may suggest a vascular contribution. The remainder of the physical 
+examination should focus on ascertaining any major medical conditions that 
+could have significant cognitive effects, such as hypoxia or significant active 
+infection. 
+
+
+While there is no consensus as to which is the best cognitive screening 
+tool, there are a variety of cognitive screening tests that have been validated 
+in a primary care setting. Clinicians should identify several with which they 
+
+
+
+are comfortable so that they can be used consistently over time with their 
+patient population. The Mini-Mental State Examination (MMSE), the 
+Montreal Cognitive Assessment (MoCA), and the Saint Louis University 
+Mental Status Examination (SLUMS) have been widely used in primary care 
+settings. The Alzheimer’s Association recommends use of the General 
+Practitioner Assessment of Cognition (GPCOG), the Mini-Cog, or the 
+Memory Impairment Screen (MIS) for cognitive screening related to the 
+Medicare Annual Wellness Visit, as these tests take less than 5 minutes to 
+administer, have good psychometric properties, and can be administered by a 
+variety of health care team members. Informant assessment of changes in 
+patient performance may include the GPCOG informant questionnaire, the 
+Eight-Item Interview to Differentiate Aging and Dementia (AD8), or the 
+Informant Questionnaire on Cognitive Decline in the Elderly (IQCODE) (see 
+Table 59-3). If time and resources allow, additional interview time with an 
+informant may identify specific areas of safety concerns and help tailor the 
+management plan. 
+
+
+In adults with high baseline cognitive functions, these screening tests may 
+be normal in the presence of obvious functional impairment necessitating 
+referral to a neuropsychologist for more detailed cognitive testing. In 
+individuals with lower educational levels or learning disabilities, cognitive 
+screening tests may suggest impairment, but the history may not suggest any 
+changes in functional status. Thus, it is critical to use age- and educationadjusted 
+norms, and integrate historical information on baseline function to 
+decide if further neuropsychological testing is warranted or if abnormal 
+testing actually reflects the patient’s baseline cognitive performance. 
+
+
+Laboratory data can assist in identifying factors that may be contributing 
+to cognitive decline. Rarely do these factors alone account for the overall 
+cognitive changes that lead to the presentation of a patient with significant 
+memory loss. Nevertheless, treating such factors may improve cognitive 
+symptoms in patients with pronounced laboratory abnormalities, numerous 
+comorbid illnesses, or an underlying neurodegenerative process. 
+Recommended laboratory tests include vitamin B12, folate, thyroid
+
+
+stimulating hormone (TSH), electrolytes, complete blood count, liver 
+enzymes, and 25-OH vitamin D. If symptoms are atypical or if there are 
+specific risk factors, then an HIV test or serologic test for syphilis may be 
+performed. In patients with assumed heavy alcohol use, thiamine (vitamin 
+B1) levels should be checked. In some European countries, routine 
+
+
+
+assessment of cerebrospinal fluid (CSF) for β-amyloid and tau levels is done 
+as part of the clinical evaluation. While CSF β-amyloid and tau levels may 
+increase diagnostic accuracy of MCI and dementia due to AD, in general they 
+are not recommended for widespread clinical practice as in most cases they 
+do not change a patient’s management plan. CSF collection may be used in 
+memory specialty clinics, though, to differentiate between different 
+dementias, including Creutzfeldt–Jakob disease, normal pressure 
+hydrocephalus (NPH), or other less-common causes of neurodegeneration 
+(see 
+Table 59-4). Genetic testing for 
+APOE ε4 genotype is not recommended 
+in routine clinical practice. Testing for 
+PSEN1, PSEN2, or 
+APP genes should 
+be reserved for specialists evaluating cases in which there is a suspicion for 
+familial AD. 
+
+
+TABLE 59-4■DIFFERENTIAL DIAGNOSIS FOR ALZHEIMERDISEASE
+In patients with documented cognitive impairment, it is recommended that 
+either a CT or MRI scan of the brain be obtained. If neuroimaging was 
+
+
+
+obtained for another indication prior to the onset of cognitive symptoms, in 
+most cases the patient should be reimaged. Typical findings for AD on 
+neuroimaging can range from a fairly normal scan to focal or diffuse cerebral 
+atrophy. A CT of the head without contrast is usually sufficient to screen for 
+significant cerebrovascular disease, brain tumors, subdural hematoma, or 
+NPH. MRI can provide more information if lacunar infarcts are suspected. 
+MRA may be helpful in identifying significant stenosis that could cause 
+hypoperfusion. In persons with suspected seizure disorder or Creutzfeldt– 
+Jakob disease, an electroencephalogram (EEG) may be considered. Use of 
+fluorodeoxyglucose (FDG) positron emission tomography (PET) and 
+amyloid PET imaging to differentiate FTD from AD should be reserved for 
+specialty clinic use. Tau PET imaging is a novel research tool that is not yet 
+approved for clinical practice. 
+
+
+Formulating a Diagnosis 
+
+
+Once a cognitive concern is recognized and delirium is ruled out, the 
+clinician should identify and document any impaired cognitive domains (such 
+as memory, executive function, language, or visuospatial skills) on cognitive 
+testing and any functional loss in the individual’s daily activities. Each 
+potentially reversible cause of cognitive impairment should be outlined (ie, 
+medication side effects, alcohol, sleep apnea, depression, or other medical 
+comorbidities) and a plan to address these conditions should be developed. 
+Objective cognitive impairment in the context of a supportive clinical history 
+plus a decline in the individual’s daily functional abilities are key elements 
+necessary to differentiate normal cognitive aging and subjective cognitive 
+decline (SCD) from MCI and dementia. With normal aging, individuals may 
+experience a decline in mental processing speed and may have more 
+difficulty learning new material, but these cognitive changes should not affect 
+their usual function within their daily activities. For example, a healthy older 
+adult may have more difficulty recalling an acquaintance’s name or learning a 
+new computer program, but their cognitive testing should be normal and daily 
+functional activities should remain intact. SCD is a term used primarily in 
+research settings to broadly describe symptoms within a pre-MCI stage of 
+neurodegeneration. SCD is currently defined as a self-identified persistent 
+decline in cognitive capacity compared with the individual’s previous 
+normal status in a person who still performs in the normal range on 
+standardized cognitive tests. An example would be a business manager with 
+
+
+
+normal performance on cognitive testing, who has noticed a subjective 
+decline in her efficiency in managing numerous projects simultaneously 
+despite maintaining a similar work load for many years. It is not yet known 
+what percentage of patients presenting with SCD progress on to MCI and 
+eventually AD; however, there is converging evidence that risk for 
+progression to MCI and dementia increases in persons with SCD. 
+Identification of patients with SCD allows clinicians to complete a thorough 
+evaluation for other medical, psychological, and medication factors that 
+could contribute to cognitive decline. Patients with SCD should be screened 
+for cognitive dysfunction annually to evaluate for objective evidence of a 
+decline in cognitive performance. 
+
+
+Once a person with SCD develops deficits in at least one cognitive 
+domain, they may meet criteria for MCI (see 
+Table 59-2), a symptomatic 
+predementia syndrome noted in up to 15% to 20% of older adults. 
+Individuals with MCI may present with cognitive complaints and describe a 
+variety of methods they use to compensate for these cognitive changes, such 
+as increasing use of lists, calendars, alarms, and other reminders. They 
+maintain their level of function, but are less efficient in doing so. For 
+example, a cabinetmaker who demonstrates impairment in executive function 
+on testing may complain that in order to complete a cabinet work order with 
+his same level of quality workmanship, it now takes him 2 to 3 weeks, 
+whereas a few years ago he could complete such an order in 1 week. Once 
+an individual’s cognitive impairment progresses to the point that they can no 
+longer maintain their baseline level of function, they may meet criteria for 
+dementia. In the previous example, as the cabinetmaker’s cognition declines 
+he may no longer be able complete a cabinet order at all or may finish it with 
+poorer-quality workmanship. At that point he may have progressed to a 
+dementia. 
+
+
+Approximately 12% to 15% of persons with MCI will progress each 
+year to AD or other forms of dementia. MCI patients who have impairment in 
+memory performance (single-domain amnestic MCI) or in memory plus 
+another cognitive area (multidomain amnestic MCI) are more likely to 
+progress to AD. Older individuals with nonamnestic MCI may be more likely 
+to progress to other forms of dementia, such as FTD, dementia with Lewy 
+bodies, or vascular dementia. Once a diagnosis of dementia is suspected, the 
+clinician must differentiate between various causes of dementia. AD is the 
+most common form of dementia in the United States, accounting for 50% to 
+
+
+
+90% of all dementia cases. Dementia with Lewy bodies, vascular dementia, 
+and FTD are other common forms of dementia (Table 59-5). Details of the 
+clinical and pathologic features of these dementias are covered inChapter 
+
+
+63. Differentiating AD from other causes of memory loss can help clinicians 
+choose effective therapies, anticipate behavior changes and other potential 
+complications, and provide patients and caregivers information on prognosis. 
+TABLE 59-5■CLINICAL FEATURES OF COMMON DEMENTIAS
+If a patient does not meet the criteria for AD yet clinical suspicion 
+remains, the clinician may consider obtaining more detailed 
+neuropsychological testing or repeating screening cognitive testing in 6 to 12 
+months to clarify the diagnosis as the symptoms become more apparent. 
+Persons with suspected MCI should be reassessed on an annual basis to 
+evaluate for progression to dementia. If the symptoms or course of the 
+disease are atypical for AD, the level of functional decline is out of 
+proportion to neuropsychological testing results, or if there are significant 
+
+
+
+behavioral issues that need to be addressed, then referral to a geriatrician, 
+neurologist, or psychiatrist with expertise in dementia is recommended. 
+
+
+Future Diagnostic Tools 
+
+
+Novel biomarkers are continually being investigated for use in the diagnosis 
+of AD and other types of dementia, as well as in identifying predementia 
+syndromes. Many of these tools are still used chiefly in research settings, but 
+are being studied to evaluate their potential role in clinical practice. Current 
+investigations are focusing on specific neuroimaging modalities and 
+biomarkers (including blood and CSF) with strong relationships to clinically 
+relevant outcomes that could be used not only for diagnosis of dementia, but 
+also for identifying asymptomatic persons at risk for cognitive decline. 
+Neuroimaging modalities have shown great promise in documenting not only 
+the late effects of neuronal damage in AD (regional and global cerebral 
+atrophy), but also in identifying preclinical pathology (such as in vivo 
+amyloid and tau imaging on PET) and the functional consequences of such 
+pathology (such as changes in activation patterns on functional MRI or 
+glucose uptake on FDG-PET). CSF levels of Aβ and tau have been shown to 
+predict risk for progression to AD in older adults and persons with MCI. 
+With the recent advances in the safety and acceptability of lumbar punctures, 
+CSF markers may eventually find their way into the widespread clinical 
+diagnostic work-up of preclinical AD. Identification of reliable blood 
+biomarkers is a rapidly expanding field with significant clinical applications. 
+Future research is focusing on how novel biomarkers may be used in 
+combination with cognitive tests to identify which individuals are at greatest 
+risk for AD, who would benefit most from preventive therapies, and how 
+effective these therapies are in modifying the underlying disease process in 
+asymptomatic and symptomatic individuals. 
+
+
+Updated NIA-AA Research Framework 
+
+
+As noted earlier, the NIA-AA criteria for AD diagnosis were created in 
+2011. In April 2018, the NIA-AA released a report proposing a new 
+research framework for studying AD that served to update the 2011 
+guidelines with subsequent scientific progress. The most important, 
+paradigm-shifting change in the 2018 report was redefining AD by its 
+biological changes in the brain rather than the clinical phenotype. By moving 
+away from the prior definition based on clinical-pathological presentation to 
+
+
+
+biological characterization, the NIA-AA framework aimed to create a 
+common language in research studies, allow for more aligned comparison of 
+research findings, and facilitate future clinical trials. 
+
+
+The current clinical framework for diagnosing AD is based on symptoms 
+reported by the patient and corroborated by a collateral historian, together 
+with an objective assessment of cognitive decline. The level of confidence in 
+this diagnosis ranges from possible to probable, depending on the presence 
+of typical symptoms, as well as the absence of alternative causes of cognitive 
+decline. A biological diagnosis of AD, which is considered the only 
+definitive diagnosis, presently relies on autopsy findings of amyloid plaques 
+and tau neurofibrillary tangles. Numerous studies have found discordant 
+findings between clinical diagnoses and neuropathological outcomes. It is 
+reported that 10% to 30% of clinically diagnosed persons with AD dementia 
+do not display the neuropathological hallmarks of amyloid plaques and tau 
+neurofibrillary tangles on autopsy. Differentiating the clinical syndrome, 
+composed of symptoms not necessarily specific to AD, from the biological 
+changes seen on neuropathology would allow discovery of novel 
+mechanisms underlying AD neurobiology. Furthermore, enrollment of 
+participants with biologically confirmed AD diagnosis will be critical in 
+evaluating efficacy of disease-modifying therapies as they become available 
+in the future. 
+
+
+The 2018 updated research framework proposed a biomarker 
+classification system called AT(N). The framework categorizes individuals 
+based on the presence or absence of the following core AD pathological 
+features: aggregated amyloid beta protein (A), aggregated tau protein (T), 
+and neurodegeneration or neuronal injury (N). The biomarkers for amyloid 
+and tau were selected for their high specificity to AD-related changes found 
+in autopsy studies. In the AT(N) framework, AD is defined by the presence of 
+both amyloid (A) and tau (T). Since neurodegeneration is not a feature used 
+in the neuropathological diagnosis of AD and is seen in other 
+neurodegenerative disorders as well, it is in parentheses in the proposed 
+research framework. However, its inclusion in the framework was necessary 
+to reflect disease severity. Table 59-6 provides a list of validated 
+biomarkers used to identify each component of the AT(N) framework. 
+
+
+TABLE 59-6■CSF BIOMARKERS OF ALZHEIMER DISEASE
+
+The AT(N) framework has accelerated discovery of novel CSF and more 
+recently blood-based biomarkers of amyloid, tau, neurodegeneration, 
+neuroinflammation, and other pathological changes seen in AD. Many of 
+these biomarkers, especially the core AD biomarkers including Aβ-42, total 
+tau (t-tau), and phosphorylated tau-181 (p-tau-181), can now be reliably 
+measured in CSF and correlate well with PET brain imaging and 
+neuropathological findings. Although validation of various AD biomarkers in 
+CSF, blood, and autopsy brain studies is ongoing, they are being actively 
+used to enroll participants in treatment trials and clinical and translational 
+studies. Based on data emerging from longitudinal cohort studies and 
+randomized clinical trials, the reported accumulation of AD biomarkers over 
+time points to a continuum of disease progression, as opposed to the older 
+clinical conceptualization of distinct levels of disease staging. 
+
+
+There is converging evidence that amyloid deposition in the brain is the 
+first neuropathological change seen in persons with AD. This conclusion is 
+based on studies of people with early-onset AD due to an autosomal 
+dominant mutation, those living with Down syndrome, and findings from 
+transgenic animal models of AD. However, the presence of amyloid alone is 
+
+
+
+viewed as only an early stage within the Alzheimer continuum and is 
+necessary, but not sufficient, for the biological diagnosis of AD. While the 
+amyloid cascade hypothesis suggests amyloid accumulation causes changes 
+leading to tau accumulation and eventually neurodegeneration, it is also 
+accepted that, unlike tau, amyloid is not strongly linked to cognitive function. 
+Amyloid may have downstream effects on tau and neurodegeneration, but the 
+AT(N) framework does not assume an order of causality. 
+
+
+One of the most notable contributions of the AT(N) framework is to 
+effectively screen and identify participants for enrollment in clinical trials 
+based on their biomarker profile rather than nonspecific clinical 
+presentations. The framework also provides validated and uniform 
+biological outcome measures to assess the efficacy of disease modifying 
+therapies, and determine dose-response relationships. Given AD is a chronic 
+and slowly progressive condition, trials to find effective treatments are 
+challenged with finding reliable surrogate outcomes that could change 
+quickly, rather than wait for alterations in clinical or behavioral phenotype 
+that would require longer and costly trials. The AT(N) framework would 
+enrich treatment trials with biologically confirmed AD participants at higher 
+risk of decline, as well as serve as a surrogate end-point in disease 
+modifying therapy trials. Additionally, it could serve as a marker of treatment 
+response. 
+
+
+The AT(N) framework is not meant to be comprehensive and exclusive, 
+but rather adaptive to newer scientific discoveries. A new evolution in the 
+framework is ATX(N), with “X” representing novel candidate biomarkers to 
+help expand and explain underlying mechanisms in AD. Examples of 
+potential mechanisms include neuroinflammation, synaptic dysfunction, 
+microvascular changes, mitochondrial oxidative damage, glial activation, 
+neurochemical deficits, and BBB dysfunction. The ATX(N) framework 
+would help expand the scientific understanding of AD as well as investigate 
+the heterogeneity of the disease. 
+
+
+AD Biomarkers 
+Cerebrospinal 
+fluidAD 
+biomarkers Amyloid and tau biomarkers are central in 
+identifying AD pathology and will help explore disease heterogeneity. They 
+will likely play critical roles in AD, including early diagnosis, disease 
+progression, screening, risk prediction, target engagement, treatment 
+monitoring, and validation of novel biomarkers. The core AD biomarkers, 
+
+
+
+namely amyloid Aβ-42, t-tau, and p-tau181, have been validated through 
+multiple CSF, PET brain imaging, and neuropathological studies. Given their 
+proven reliability, amyloid and tau biomarkers will serve as a framework for 
+identification of novel biomarkers to address contributions from potential 
+coexisting pathologies, such as vascular insults, Lewy body dementia, 
+Parkinson disease, and TDP (TAR DNA-binding protein)-43 that likely 
+contribute to clinical symptoms and cognitive decline. 
+
+
+In the past decade, new CSF biomarkers have been identified 
+representing multiple mechanisms active in AD. These mechanisms include 
+glial activation, neuroinflammation, synaptic degeneration, and 
+neuronal/axonal death. Importantly, many AD biomarkers can now be 
+measured in CSF and several in blood as well. Although the validation of 
+CSF biomarkers is currently ongoing, once approved, they will have major 
+clinical applications in the diagnosis, progression, and treatment of AD and 
+related disorders. Table 59-6 summarizes CSF biomarkers representing 
+various molecular pathways active in AD. While some of the CSF 
+biomarkers, such as t-tau, NfL, YKL-40, and interleukins, may not be 
+specific to AD, they elucidate disease progression and are related to 
+symptoms. Measures of neurodegeneration may be particularly important, 
+given clinical features of AD tend to track closely with synaptic dysfunction, 
+and eventually neuronal death. Synaptic loss is an early pathological change 
+in AD and closely associated with cognitive impairment. 
+
+
+Neuroimaging 
+AD 
+biomarkers The multimodal neuroimaging AD biomarkers, 
+including CAT, MRI, amyloid PET, and tau PET brain scans, have been 
+examined over years and validated as effective measures to help in the 
+diagnosis and progression of AD, and exclusion of other treatable causes of 
+dementia, such as stroke, tumor, or NPH. Recent advances in neuroimaging 
+include novel PET radiotracers to image neuroinflammation and translocator 
+protein (TSPO) PET and synaptic vesicle protein 2A (SV2A) PET, 
+respectively, to study synaptic dysfunction and loss. Clinically, [18F] FDG 
+PET is available to visualize synaptic dysfunction, neuronal cell loss, and 
+metabolic dysfunction to help differentiate AD from non-AD dementias such 
+as FTD and Lewy body disease. Additionally, amyloid PET and tau PET are 
+available in research settings, but not yet approved for clinical use or 
+reimbursement. Once approved, amyloid and tau PET scans will become 
+important for biological diagnosis of AD. 
+
+
+
+Blood-basedAD 
+biomarkers Although highly informative, the utility of CSF and 
+PET biomarkers is limited by their cost, logistical matters and practical 
+barriers related to the lumbar puncture procedure. These limitations make 
+CSF measures unlikely to become widely used in the clinical setting. 
+Consequently, the pursuit of blood-based AD biomarkers has intensified. 
+Several AD biomarkers can now be measured in blood through emerging 
+analytical techniques. However, a major limitation in broad utility of these 
+biomarkers is significant heterogeneity in results due to multiple factors, 
+including variance in sample collection, storage, preanalytical processing, 
+assays, and data analysis. Among the AD biomarkers that can be measured in 
+plasma include Aβ42, Aβ40, total tau, p-tau181, p-tau217, p-tau231, 
+neurofilament light (NfL), interleukins, and YKL-40. Highly sensitive mass 
+spectrometry assays are used to measure plasma levels of Aβ42, Aβ40, and 
+their ratios, while single molecule array (SIMOA) technology is used to 
+assay NfL, interleukins, and p-tau and its analogues in plasma. 
+Phosphorylation of tau occurs at multiple sites and certain isoforms, such as 
+threonine 231 (p-tau231) and threonine 217 (p-tau217) change early in AD 
+pathobiology and have been shown to accurately identify amyloid positivity 
+along the AD biomarker continuum and clinical spectrum. 
+
+
+Plasma neurofilament light (NfL), a promising biomarker of 
+neurodegeneration, albeit not specific to AD, has been shown to increase in 
+persons with cognitive impairment due to many neurodegenerative disorders, 
+including AD, Parkinson disease, FTD, and cerebral vascular disease. 
+Elevated plasma NfL is a sign of early neuronal death and can increase 
+during preclinical stages of AD. The field of plasma AD biomarkers is 
+advancing rapidly and new biomarkers that change during early stages of AD 
+will become invaluable for early diagnosis, progression from preclinical to 
+symptomatic stages of AD, and treatment monitoring and response. However, 
+these biomarkers are not yet ready for clinical applications, given that larger 
+studies are necessary to validate, examine the relationship with clinical 
+phenotype, and harmonize their measurement in plasma. 
+
+
+MANAGEMENT 
+
+
+Managing patients with AD involves presentation of the diagnosis, initiation 
+of medical therapy, assessment and treatment of concomitant depression 
+and/or behavioral concerns, identification of a social support network, 
+
+
+
+education of patients and caregivers, provision of caregiver support, and 
+initiation of appropriate safety measures. 
+
+
+Presenting the Diagnosis 
+
+
+Presenting the diagnosis of AD to a patient is difficult, as it may generate 
+significant emotional responses from the patient and their family and trigger 
+fear of future demise. Frequently, patients and family members suspect the 
+diagnosis before it is presented, but how they respond to the news depends 
+on personal coping mechanisms, cultural influences, family dynamics, and 
+their preconceived understanding of AD. Clinicians may help patients and 
+families adjust to this diagnosis by using an empathetic, yet honest approach 
+and by providing them with educational and support resources, including 
+those provided by agencies such as the Alzheimer’s Association and the 
+National Institute on Aging Alzheimer’s Disease Education and Referral 
+(ADEAR) Center. In addition, the clinician should emphasize the goals of 
+diagnosing AD in order to take steps to protect the patient’s memory, delay 
+the progression of the disease, and maintain the person’s safety. It is widely 
+recommended to tell both the patient and family the diagnosis using the term 
+“Alzheimer disease,” thus, providing patients and families with a starting 
+point for education. Encouraging both persons with the disorder and 
+caregivers to utilize resources such as local support groups, community 
+resources, and national Alzheimer organizations is an important part of the 
+patient management plan. 
+
+
+Drug Therapy and Nonpharmacologic Therapy 
+
+
+Acetylcholinesterase inhibitors (AChEIs) are the mainstay of therapy for AD. 
+AChEIs increase the levels of the neurotransmitter acetylcholine in neuronal 
+synapses, thereby enhancing cholinergic activity in the affected brain regions. 
+Although 18% to 48% of persons may experience improvements in cognition 
+after taking these medications, the majority of patients do not have any 
+noticeable improvement, but instead experience a plateau or slowing of their 
+rate of cognitive decline. While prior studies raised questions as to the costeffectiveness 
+of treating AD patients with AChEIs, newer studies integrating 
+generic drug cost estimates have demonstrated that these drugs are costeffective. 
+Delaying the progression of cognitive decline may lead to 
+improvements in quality of life, reduced caregiver burden, and decreased 
+economic cost associated with long-term care. AChEIs have not been shown 
+
+
+
