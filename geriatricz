@@ -1,0 +1,4 @@
+git init geriatrics-board-prep
+cd geriatrics-board-prep
+npm init -y
+npm install express pg socket.io jsonwebtoken bcrypt axios node-cron redis openai
