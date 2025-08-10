@@ -1,0 +1,2 @@
+createdb geriatrics_board_prep
+psql geriatrics_board_prep < database-schema.sql
